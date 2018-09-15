@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Homepage</title>
+
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+    <link href="https://fonts.googleapis.com/css?family=Chenla" rel="stylesheet">
+    <!-- link jquery -->
+    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+    <!-- link slide -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- sticky style -->
+    <script type="text/javascript">
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 100) {
+                $('.menu').addClass("sticky");
+            }
+            else {
+                $('.menu').removeClass("sticky");
+            }
+        })
+
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 100) {
+                $('.toggle').addClass("sticky");
+                $('.phone-nav').hide();
+                // document.getElementById('.phone-nav').style.display = 'none';
+            }
+            else {
+                $('.toggle').removeClass("sticky");
+                $('.phone-nav').show();
+                // document.getElementById('.phone-nav').style.display = 'none';
+            }
+        })
+
+        $(window).scroll(function () {
+            if ($(this).scrollTop() > 150) {
+                $('.phone-nav').addClass("sticky");
+            }
+            else {
+                $('.phone-nav').removeClass("sticky");
+            }
+        })
+
+    </script>
+</head>
+
+<body>
+    <div class="mysticky">
+        sticky
+    </div>
+    <div class="menu">
+        <ul>
+            <li>
+                <a href="">ទំព័រដើម</a>
+            </li>
+            <li>
+                <a href="">ការចិញ្ចឹមសត្វ</a>
+                <ul class="dropdowncontent">
+                    <li>
+                        <a href="">Fish</a>
+                    </li>
+                    <li>
+                        <a href="">Dog</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="">ការដាំដំណាំ</a>
+                <ul class="dropdowncontent">
+                    <li>
+                        <a href="">Banana</a>
+                    </li>
+                    <li>
+                        <a href="">Corn</a>
+                    </li>
+                </ul>
+            </li>
+            <li>
+                <a href="">ផ្សេងៗ</a>
+            </li>
+        </ul>
+    </div>
+    <div class="toggle">
+        <a href="#">
+            <i class="fas fa-bars"></i>
+        </a>
+    </div>
+    <div class="phone-nav">
+
+        <div class="phone-menu">
+            <ul>
+                <li>
+                    <a href="">ទំព័រដើម</a>
+                </li>
+                <li>
+                    <a href="">ការចិញ្ចឹមសត្វ</a>
+                    <ul class="dropdowncontent">
+                        <li>
+                            <a href="">Fish</a>
+                        </li>
+                        <li>
+                            <a href="">Dog</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="">ការដាំដំណាំ</a>
+                    <ul class="dropdowncontent">
+                        <li>
+                            <a href="">Banana</a>
+                        </li>
+                        <li>
+                            <a href="">Corn</a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <a href="">ផ្សេងៗ</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="slide-show">
+        <h2>ស្វារគមន៍មកកាន់កសិដ្ឋានកម្ពុជា</h2>
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                <li data-target="#myCarousel" data-slide-to="1"></li>
+                <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner">
+
+                <div class="item active">
+                    <img src="../img/carrots.jpg" alt="carrots" style="width:100%;">
+                    <div class="carousel-caption">
+                        <h3>Los Angeles</h3>
+                        <p>LA is always so much fun!</p>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="../img/tomatos.jpg" alt="tomatos" style="width:100%;">
+                    <div class="carousel-caption">
+                        <h3>Chicago</h3>
+                        <p>Thank you, Chicago!</p>
+                    </div>
+                </div>
+
+                <div class="item">
+                    <img src="../img/field.jpg" alt="Fields" style="width:100%;">
+                    <div class="carousel-caption">
+                        <h3>New York</h3>
+                        <p>We love the Big Apple!</p>
+                    </div>
+                </div>
+
+            </div>
+
+            <!-- Left and right controls -->
+            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        </div>
+    </div>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+</body>
+<!-- show phone menu when click on toggle-->
+<script>
+    $(document).ready(function () {
+        $('.toggle').click(function () {
+            $('.phone-menu').slideToggle();
+            // $('.mysticky').hide();
+        })
+    })
+</script>
+
+</html>

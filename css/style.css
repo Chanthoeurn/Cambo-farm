@@ -1,0 +1,224 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-color: #F6F5FA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.mysticky{
+    width: 100%;
+    height: 100px;
+    background-color: red;
+
+}
+
+/* Main menu style */
+.menu{
+    width: 100%;
+    height: 50px;
+    background-color: #F6F5FA;
+    box-shadow: 5px 5px 10px #888888;
+    z-index: 100;
+}
+.menu ul{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    float: right;
+    
+}
+.menu ul li{
+    list-style: none;
+    width: 150px;
+    float: left;
+    
+}
+
+/* main menu item style */
+.menu ul li a{
+    font-size: 15px;
+   display: block;
+   text-align: center;
+   padding: 10px 20px;
+   text-decoration: none;
+   color: #474a56;
+   padding: 10px 20px;
+   font-family: 'Chenla', cursive;
+  
+}
+/* main menu item hover */
+.menu ul li a:hover{
+    color: black;
+    font-size: 20px;
+    border-bottom: 2px solid #5CC703;
+    transition: 0.2s;
+
+    
+ }
+ul.dropdowncontent li a{
+    margin: 0; 
+}
+
+/* drop down menu style */
+.menu ul li .dropdowncontent{
+    display: none;
+    background-color: #F6F5FA;
+    /* border-right: 2px solid #888888;
+    border-bottom: 2px solid #888888; */
+
+    box-shadow: 5px 5px 10px #888888;
+
+    
+}
+
+.menu ul li:hover .dropdowncontent {
+    display: block;
+    background-color: none;;
+   
+}
+/* main menu drop down hover style */
+.menu ul li .dropdowncontent a:hover{
+    background-color:none;
+    border-bottom: 2px solid #5CC703;
+    transition: 0.2s;
+    
+}
+
+.sticky{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+/* toogle button */
+.toggle{
+    width: 100%;
+    height: 40px;
+    background-color: #888888;
+    box-shadow: 5px 5px 10px #888888;
+    display: none;
+    z-index: 100;
+};
+
+/* toggle button style */
+.toggle a{
+    font-size: 30px;
+    background-color: red;
+    
+}
+
+.toggle a:hover{
+    cursor: pointer;
+}
+.phone-nav{
+    width: 300px;
+    background-color: red;
+    position: relative;
+    z-index: 100;
+}
+
+/*on phone menu style */
+.phone-menu{
+    position: absolute;
+    top: 100%;
+    left: 0px;
+    width: 250px;
+    float: left;
+    background-color: #5CC703;
+    box-shadow: 5px 5px 10px green;
+    display: none;
+    z-index: 100;
+}
+.phone-menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+
+}
+.phone-menu ul li{
+    float: left;
+    list-style: none;
+}
+.phone-menu ul li a{
+    width: 150px;
+    display: block;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    font-family: 'Chenla', cursive;
+    font-size: 16px;
+}
+.phone-menu ul li a:hover{
+    color: black;
+    font-size: 20px;
+    border-bottom: 2px solid white;
+    transition: 0.2s;
+    
+}
+
+
+.phone-menu ul li .dropdowncontent{
+    margin-left: 30px;
+    display: none;
+    
+    
+}
+.phone-menu ul li:hover .dropdowncontent {
+   
+    display: block;
+    background-color: none;;
+   
+}
+/* large dektop*/
+@media (min-width: 1300px){
+	.phone-nav{
+        display: none;
+    }
+}
+
+/* large dektop*/
+@media (min-width: 991px) and (max-width: 1300px){
+	.phone-nav{
+        display: none;
+    }
+}
+/* portrait tablet to landscape and  dektop*/
+@media (min-width: 768px) and (max-width: 991px){
+	.phone-nav{
+        display: none;
+    }
+}
+/* landscape phone*/
+@media (min-width: 480px) and (max-width: 767px){
+	.menu{
+        display: none;
+    }
+    .toggle{ 
+        display: block;
+        
+    }
+    .toggle a{
+        display: block;
+        font-size: 30px;
+        color: white;
+    }
+}
+@media (max-width: 479px){
+    .menu{
+        display: none;
+    }
+    .toggle{ 
+        display: block;
+    }
+    .toggle a{
+        display: block;
+        font-size: 30px;
+        color: white;
+    }
+
+}
+
+.slide-show{
+    font-family: 'Chenla', cursive;
+    
+}
