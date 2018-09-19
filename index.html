@@ -17,10 +17,11 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <!-- sticky style -->
     <script type="text/javascript">
         $(window).scroll(function () {
-            if ($(this).scrollTop() > 100) {
+            if ($(this).scrollTop() > 250) {
                 $('.menu').addClass("sticky");
             }
             else {
@@ -29,7 +30,7 @@
         })
 
         $(window).scroll(function () {
-            if ($(this).scrollTop() > 100) {
+            if ($(this).scrollTop() > 250) {
                 $('.toggle').addClass("sticky");
                 $('.phone-nav').hide();
                 // document.getElementById('.phone-nav').style.display = 'none';
@@ -42,7 +43,7 @@
         })
 
         $(window).scroll(function () {
-            if ($(this).scrollTop() > 150) {
+            if ($(this).scrollTop() > 250) {
                 $('.phone-nav').addClass("sticky");
             }
             else {
@@ -54,72 +55,38 @@
 </head>
 
 <body>
-    <div class="mysticky">
-        sticky
-    </div>
-    <div class="menu">
-        <ul>
-            <li>
-                <a href="">ទំព័រដើម</a>
-            </li>
-            <li>
-                <a href="">ការចិញ្ចឹមសត្វ</a>
-                <ul class="dropdowncontent">
-                    <li>
-                        <a href="">Fish</a>
-                    </li>
-                    <li>
-                        <a href="">Dog</a>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <a href="">ការដាំដំណាំ</a>
-                <ul class="dropdowncontent">
-                    <li>
-                        <a href="">Banana</a>
-                    </li>
-                    <li>
-                        <a href="">Corn</a>
-                    </li>
-                </ul>
-            </li>
-            <li>
-                <a href="">ផ្សេងៗ</a>
-            </li>
-        </ul>
-    </div>
-    <div class="toggle">
-        <a href="#">
-            <i class="fas fa-bars"></i>
-        </a>
-    </div>
-    <div class="phone-nav">
-
-        <div class="phone-menu">
+    <div class="Full-screen">
+        <div class="mysticky">
+            sticky
+        </div>
+        <div class="menu">
             <ul>
                 <li>
                     <a href="">ទំព័រដើម</a>
                 </li>
                 <li>
-                    <a href="">ការចិញ្ចឹមសត្វ</a>
+                    <a href="">អំពីសត្វ</a>
                     <ul class="dropdowncontent">
                         <li>
-                            <a href="">Fish</a>
+                            <a href="">សត្វមាន់</a>
                         </li>
                         <li>
-                            <a href="">Dog</a>
+                            <a href="">សត្វទា</a>
+                        </li>
+
+                        <li>
+                            <a href="">សត្វជ្រូក</a>
                         </li>
                     </ul>
                 </li>
                 <li>
-                    <a href="">ការដាំដំណាំ</a>
+                    <a href="">អំពីដំណាំ</a>
                     <ul class="dropdowncontent">
                         <li>
-                            <a href="">Banana</a>
+                            <a href="">ដំណាំម្នាស់</a>
                         </li>
                         <li>
-                            <a href="">Corn</a>
+                            <a href="">ដំណាំឪឡឹក</a>
                         </li>
                     </ul>
                 </li>
@@ -128,158 +95,239 @@
                 </li>
             </ul>
         </div>
-    </div>
-
-    <div class="slide-show">
-        <h2>ស្វារគមន៍មកកាន់កសិដ្ឋានកម្ពុជា</h2>
-        <div id="myCarousel" class="carousel slide" data-ride="carousel">
-            <!-- Indicators -->
-            <ol class="carousel-indicators">
-                <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-                <li data-target="#myCarousel" data-slide-to="1"></li>
-                <li data-target="#myCarousel" data-slide-to="2"></li>
-            </ol>
-
-            <!-- Wrapper for slides -->
-            <div class="carousel-inner">
-
-                <div class="item active">
-                    <img src="../img/carrots.jpg" alt="carrots" style="width:100%;">
-                    <div class="carousel-caption">
-                        <h3>Los Angeles</h3>
-                        <p>LA is always so much fun!</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="../img/tomatos.jpg" alt="tomatos" style="width:100%;">
-                    <div class="carousel-caption">
-                        <h3>Chicago</h3>
-                        <p>Thank you, Chicago!</p>
-                    </div>
-                </div>
-
-                <div class="item">
-                    <img src="../img/field.jpg" alt="Fields" style="width:100%;">
-                    <div class="carousel-caption">
-                        <h3>New York</h3>
-                        <p>We love the Big Apple!</p>
-                    </div>
-                </div>
-
-            </div>
-
-            <!-- Left and right controls -->
-            <a class="left carousel-control" href="#myCarousel" data-slide="prev">
-                <span class="glyphicon glyphicon-chevron-left"></span>
-                <span class="sr-only">Previous</span>
-            </a>
-            <a class="right carousel-control" href="#myCarousel" data-slide="next">
-                <span class="glyphicon glyphicon-chevron-right"></span>
-                <span class="sr-only">Next</span>
+        <div class="toggle">
+            <a href="#" style="color: #5CC703;">
+                <i class="fas fa-bars"></i>
             </a>
         </div>
-    </div>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+        <div class="phone-nav">
+
+            <div class="phone-menu">
+                <ul>
+                    <li>
+                        <a href="">ទំព័រដើម</a>
+                    </li>
+                    <li>
+                        <a href="">អំពីសត្វ</a>
+                        <ul class="dropdowncontent">
+                            <li>
+                                <a href="">សត្វមាន់</a>
+                            </li>
+                            <li>
+                                <a href="">សត្វទា</a>
+                            </li>
+
+                            <li>
+                                <a href="">សត្វជ្រូក</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="">អំពីដំណាំ</a>
+                        <ul class="dropdowncontent">
+                            <li>
+                                <a href="">ដំណាំម្នាស់</a>
+                            </li>
+                            <li>
+                                <a href="">ដំណាំឪឡឹក</a>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <a href="">ផ្សេងៗ</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="slide-show">
+                <h2>ស្វារគមន៍មកកាន់កសិដ្ឋានកម្ពុជា</h2>
+                <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" data-slide-to="2"></li>
+                    </ol>
+
+                    <!-- Wrapper for slides -->
+                    <div class="carousel-inner">
+
+                        <div class="item active">
+                            <img src="../img/carrots.jpg" alt="carrots" style="width:100%;">
+                            <div class="carousel-caption">
+                                <h3>Los Angeles</h3>
+                                <p>LA is always so much fun!</p>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src="../img/tomatos.jpg" alt="tomatos" style="width:100%;">
+                            <div class="carousel-caption">
+                                <h3>Chicago</h3>
+                                <p>Thank you, Chicago!</p>
+                            </div>
+                        </div>
+
+                        <div class="item">
+                            <img src="../img/field.jpg" alt="Fields" style="width:100%;">
+                            <div class="carousel-caption">
+                                <h3>New York</h3>
+                                <p>We love the Big Apple!</p>
+                            </div>
+                        </div>
+
+                    </div>
+
+                    <!-- Left and right controls -->
+                    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+                        <span class="glyphicon glyphicon-chevron-left"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+                        <span class="glyphicon glyphicon-chevron-right"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div>
+                <label for="" ​​​​​​ class="labelNews" style="font-family: 'Chenla', cursive">សំខាន់ៗអំពីទីនេះ</label>
+            </div>
+            <div class="row">
+                <div class="col-sm-4 col-xs-12">
+                    <div class="card shadow-lg p-3 mb-5 bg-white rounded">
+                        <img class="card-img-top center-block" src="/img/plant.png" alt="Card image" style="width:50%">
+                        <div class="card-body">
+                            <p class="card-text">ផ្តល់ចំណេះដឹងអំពី បទ ពិសោធន៍ការដាំដំណាំ
+                            </p>
+                            <button type="button" class="btn btn-outline-success center-block">ចុចទីនេះ</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4 col-xs-12">
+                    <div class="card">
+                        <img class="card-img-top center-block" src="/img/chicken.png" alt="Card image" style="width:50%">
+                        <div class="card-body">
+                            <p class="card-text">ផ្តល់ចំណេះដឹងអំពី បទ ពិសោធន៍ការចិញ្ចឹមសត្វ
+                            </p>
+                            <button type="button" class="btn btn-outline-success center-block">ចុចទីនេះ</button>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="col-sm-4 col-xs-12">
+                    <div class="card">
+                        <img class="card-img-top center-block" src="/img/market.png" alt="Card image" style="width:50%">
+                        <div class="card-body">
+                            <p class="card-text">ចង់ដឹងពីព័ត៌មានផ្សេងៗ ពីកសិកម្មដែរឬទេ?
+                            </p>
+                            <button type="button" class="btn btn-outline-success center-block">ចុចទីនេះ</button>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+            </div>
+        </div>
+        <div class="container">
+            <div>
+                <label for="" ​​​​​​ class="labelNews" ​​ style="font-family: 'Chenla', cursive ;">ផ្សេងៗពីទីនេះ</label>
+            </div>
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="card">
+                        <div class="card-body">
+                            <p class="card-text">តើលោកអ្នកចង់យល់ដឹងបន្ថែមពីវិធីសាស្រ្តកសិកម្ម ការថែរក្សា បច្ចេកទេសល្អៗពីយើងដែរឬទេ?
+                            </p>
+                            <p class="card-text">ទីនេះមិនត្រឹមតែផ្តល់ពីចំណេះដឹង និង បទពិសោធន៍ល្អៗដល់យើងទាំងអស់គ្នានេះទេ ថែមទាំងមាន ពីព័ត៌មានផ្សេងៗអំពីកសិកម្មថែមទៀតផង
+                            </p>
+                            <button type="button" class="btn btn-outline-success">ចុចទីនេះ</button>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-sm-4">
+                    <div class="card shadow-lg p-3 mb-5 bg-white rounded">
+                        <div class="card-body">
+                            <img class="card-img-top center-block" src="/img/plant.png" alt="Card image" style="width:50%;height: 220px">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+                <div>
+                    <label for="" ​​​​​​ class="labelNews" ​​ style="font-family: 'Chenla', cursive ;">គោលបំណងនៃគេហទំព័រ</label>
+                </div>
+                <div class="row">
+                    <div class="col-sm-8">
+                        <div class="card">
+                            <div class="card-body">
+                                <p class="card-text">គោលបំណងនៃការបង្កើតគេហទំព័រមួយនេះ គឺចង់ចែករំលែក
+                                        អំពីបទពិសោធន៍ និង ចំណេះខ្លះៗអំពីកសិកម្មជូនទៅដល់
+                                        កសិកររបស់ប្រទេសកម្ពុជាយើង ។
+                                </p>
+                    
+                                <button type="button" class="btn btn-outline-success">ចុចអានបន្ថែម</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-4">
+                        <div class="card shadow-lg p-3 mb-5 bg-white rounded">
+                            <div class="card-body">
+                                <img class="card-img-top​​​ center-block" src="/img/plant.png" alt="Card image" style="width:50%;height: 220px">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <footer class="myfooter">
+            <div class="container">
+                <div class="col-sm-4">
+
+                </div>
+                <div class="col-sm-4" style="font-family: 'Chenla', cursive ; color: white;">
+                    <br>
+                    <br>
+                    <h1​ style="font-size: 14px;">អំពីគេហទំព័រ</h1>
+                        <div class="side">
+                            <ul>
+                                <li>
+                                    <a href="#">អំពីដំណាំ</a>
+                                    <li>
+                                        <a href="#">អំពីសត្វ</a>
+                                    </li>
+                                    <li>
+                                        <a href="#">ផ្សេងៗទៀត</a>
+                                    </li>
+                                </li>
+                            </ul>
+                        </div>
+                </div>
+                <div class="col-sm-4" ​ style="font-family: 'Chenla', cursive ; font-size: 14px;  color: white;">
+                    <br>
+                    <h1 style="font-family: 'Chenla', cursive ; font-size: 14px;">ទំនាក់ទំនងយើង</h1>
+                    <div class="side">
+                        <ul style="list-style: none ;color:white;">
+                            <li>
+                                <a href="#">អីម៉ែល:chanthoeurnchhim168@gmail.com</a>
+                                <li>
+                                    <a href="#">ទូរស័ព្ទ: +៨៥៥​​ ៨៦៣២៩២២១</a>
+                                </li>
+                                <li>
+                                    <a href="#">ទីតាំង: សង្កាត់ទឹកថ្លា ខណ្ឌសែនសុខ រាជធានីភ្នំពេញ</a>
+                                </li>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </footer>
+
 </body>
 <!-- show phone menu when click on toggle-->
 <script>
