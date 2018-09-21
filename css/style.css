@@ -13,7 +13,6 @@ body{
     width: 100%;
     height: 250px;
     background-image: url(../img/sticky.png);
-
 }
 
 /* Main menu style */
@@ -35,6 +34,8 @@ body{
     list-style: none;
     width: 150px;
     float: left;
+    position: relative;
+    z-index: 10000000;
     
 }
 
@@ -53,7 +54,7 @@ body{
 /* main menu item hover */
 .menu ul li a:hover{
     color: black;
-    font-size: 20px;
+    font-size: 18px;
     border-bottom: 2px solid #5CC703;
     transition: 0.2s;
 
@@ -67,9 +68,6 @@ ul.dropdowncontent li a{
 .menu ul li .dropdowncontent{
     display: none;
     background-color: #F6F5FA;
-    /* border-right: 2px solid #888888;
-    border-bottom: 2px solid #888888; */
-
     box-shadow: 5px 5px 10px #888888;
 
     
@@ -103,12 +101,15 @@ ul.dropdowncontent li a{
     display: none;
     z-index: 100;
 };
+/* ---------->clear<---------------*/
 
-/* .fa-bars:before{
-    background-color: #5CC703;
-} */
-
+.clear{
+    clear: left;
+}
 /* toggle button style */
+.fas .fa-bars{
+    padding-left: 10px;
+}
 .toggle a{
     font-size: 30px;
     
@@ -117,39 +118,23 @@ ul.dropdowncontent li a{
 .toggle a:hover{
     cursor: pointer;
 }
-.phone-nav{
-    width: 300px;
-    background-color: red;
-    position: relative;
-    z-index: 100;
-}
-
 /*on phone menu style */
-.phone-menu{
-    position: absolute;
-    top: 100%;
-    left: 0px;
-    width: 250px;
-    float: left;
-    background-color: white;
-    box-shadow: 5px 5px 10px #888888;
-    display: none;
-    z-index: 100;
-}
-.phone-menu ul{
-    list-style: none;
-    margin: 0;
-    padding: 0;
 
+.phone-menu ul{
+    background-color: white;
+    list-style: none;
+    padding-left: 0px;
+    box-shadow: 2px 2px 10px #888888;
+    position: absolute;
+    z-index: 100000000;
 }
 .phone-menu ul li{
-    float: left;
-    list-style: none;
+   position: relative;
+   width: 150px;
 }
 .phone-menu ul li a{
-    width: 150px;
     display: block;
-    padding: 10px;
+    padding: 10px 20px;
     text-decoration: none;
     color: #888888;
     font-family: 'Chenla', cursive;
@@ -157,35 +142,43 @@ ul.dropdowncontent li a{
 }
 .phone-menu ul li a:hover{
     color: black;
-    font-size: 20px;
+    font-size: 18px;
     border-bottom: 2px solid #5CC703;
     transition: 0.2s;
     
 }
 
+/* ------------------->hover on menu<--------------------------- */
 
-.phone-menu ul li .dropdowncontent{
-    margin-left: 30px;
-    display: none;
-    
-    
-}
-.phone-menu ul li:hover .dropdowncontent {
-   
+/* .dropdowncontent{
+    position: absolute;
+    background-color: white;
+    box-shadow: 2px 2px 10px #888888;
+    padding-left: 0px;
+} */
+.phone-menu ul li:hover  ul{
     display: block;
-    background-color: none;;
-   
+    
 }
+
+.phone-menu ul li ul{
+    display: none;
+    position: absolute;
+    z-index: 100000;
+    top: 0;
+    left: 150px;
+}
+
 /* large dektop*/
 @media (min-width: 1300px){
-	.phone-nav{
+	.phone-menu ul{
         display: none;
     }
 }
 
 /* large dektop*/
 @media (min-width: 991px) and (max-width: 1300px){
-	.phone-nav{
+	.phone-menu ul{
         display: none;
     }
 }
@@ -195,7 +188,7 @@ ul.dropdowncontent li a{
         width: 100%;
         margin: auto;
     }
-	.phone-nav{
+	.phone-menu ul{
         display: none;
     }
 }
@@ -217,6 +210,9 @@ ul.dropdowncontent li a{
         font-size: 30px;
         color: white;
     }
+    .phone-menu ul{
+        display: none;
+    }
 }
 @media (max-width: 479px){
     .Full-screen{
@@ -234,13 +230,30 @@ ul.dropdowncontent li a{
         font-size: 30px;
         color: white;
     }
+    
 
 }
+
+/*----------------> slide show style <---------------------*/
 
 .slide-show{
     
     font-family: 'Chenla', cursive;
-    
+    position: absolute;
+    width: 85%;
+    /* height: 400px !important; */
+}
+
+/*----------------> .web-content <----------------*/
+.web-content{
+    position: relative;
+    top: 470px;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 90%;
+    height: 400px !important;
 }
 .container .row{
     width: 100%;
