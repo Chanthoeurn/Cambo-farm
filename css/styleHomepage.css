@@ -234,6 +234,7 @@ ul.dropdowncontent li a{
 
 }
 
+
 /*----------------> slide show style <---------------------*/
 
 .slide-show{
@@ -305,7 +306,7 @@ button.btn.btn-outline-success:hover {
     border: 1px solid green;
     color: white;
 }
-
+/* footer-sytle */
 .myfooter{
     background-image: linear-gradient(to bottom right, #89c94a, #75ffac);
     color: red;

@@ -7,137 +7,19 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Homepage</title>
 
-    <link rel="stylesheet" href="css/style.css">
-    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
-    <link href="https://fonts.googleapis.com/css?family=Chenla" rel="stylesheet">
-    <!-- link jquery -->
-    <script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-    <!-- link slide -->
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-    <!-- sticky style -->
-    <script type="text/javascript">
-        $(window).scroll(function () {
-            if ($(this).scrollTop() > 250) {
-                $('.menu').addClass("sticky");
-            }
-            else {
-                $('.menu').removeClass("sticky");
-            }
-        })
-
-        $(window).scroll(function () {
-            if ($(this).scrollTop() > 250) {
-                $('.toggle').addClass("sticky");
-                $('.phone-nav').hide();
-                // document.getElementById('.phone-nav').style.display = 'none';
-            }
-            else {
-                $('.toggle').removeClass("sticky");
-                $('.phone-nav').show();
-                // document.getElementById('.phone-nav').style.display = 'none';
-            }
-        })
-
-        $(window).scroll(function () {
-            if ($(this).scrollTop() > 250) {
-                $('.phone-nav').addClass("sticky");
-            }
-            else {
-                $('.phone-nav').removeClass("sticky");
-            }
-        })
-
-    </script>
+    <link rel="stylesheet" href="../css/styleHomepage.css">
+    <?php
+        include('../php/headerlink.php');
+    ?>
+    <!-- Link Menu Script-->
+    <script src="../js/menu.js"></script>
 </head>
 
 <body>
     <div class="Full-screen">
-        <div class="mysticky">
-        </div>
-        <div class="menu">
-            <ul>
-                <li>
-                    <a href="">ទំព័រដើម</a>
-                </li>
-                <li>
-                    <a href="">អំពីសត្វ</a>
-                    <ul class="dropdowncontent">
-                        <li>
-                            <a href="">សត្វមាន់</a>
-                        </li>
-                        <li>
-                            <a href="">សត្វទា</a>
-                        </li>
-
-                        <li>
-                            <a href="">សត្វជ្រូក</a>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="">អំពីដំណាំ</a>
-                    <ul class="dropdowncontent">
-                        <li>
-                            <a href="">ដំណាំម្នាស់</a>
-                        </li>
-                        <li>
-                            <a href="">ដំណាំឪឡឹក</a>
-                        </li>
-                    </ul>
-                </li>
-                <li>
-                    <a href="">ផ្សេងៗ</a>
-                </li>
-            </ul>
-        </div>
-        <div class="toggle">
-            <a href="#" style="color: #5CC703;padding-left: 10px;">
-                <i class="fas fa-bars"></i>
-            </a>
-        </div>
-        <div class="phone-nav">
-
-            <div class="phone-menu">
-                <ul class="phone-menu2">
-                    <li>
-                        <a href="">ទំព័រដើម</a>
-                    </li>
-                    <li>
-                        <a href="">អំពីសត្វ</a>
-                        <ul class="dropdowncontent">
-                            <li>
-                                <a href="">សត្វមាន់</a>
-                            </li>
-                            <li>
-                                <a href="">សត្វទា</a>
-                            </li>
-
-                            <li>
-                                <a href="">សត្វជ្រូក</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="">អំពីដំណាំ</a>
-                        <ul class="dropdowncontent">
-                            <li>
-                                <a href="">ដំណាំម្នាស់</a>
-                            </li>
-                            <li>
-                                <a href="">ដំណាំឪឡឹក</a>
-                            </li>
-                        </ul>
-                    </li>
-                    <li>
-                        <a href="">ផ្សេងៗ</a>
-                    </li>
-                </ul>
-            </div>
-        </div>
+        <?php
+            include('../php/menu.php');
+        ?>
 
         <div class="container">
             <div class="slide-show">
@@ -200,7 +82,7 @@
                 <div class="row">
                     <div class="col-sm-4 col-xs-12">
                         <div class="card shadow-lg p-3 mb-5 bg-white rounded">
-                            <img class="card-img-top center-block" src="/img/plant.png" alt="Card image" style="width:50%">
+                            <img class="card-img-top center-block" src="../img/plant.png" alt="Card image" style="width:50%">
                             <div class="card-body">
                                 <p class="card-text">ផ្តល់ចំណេះដឹងអំពី បទ ពិសោធន៍ការដាំដំណាំ
                                 </p>
@@ -210,7 +92,7 @@
                     </div>
                     <div class="col-sm-4 col-xs-12">
                         <div class="card">
-                            <img class="card-img-top center-block" src="/img/chicken.png" alt="Card image" style="width:50%">
+                            <img class="card-img-top center-block" src="../img/chicken.png" alt="Card image" style="width:50%">
                             <div class="card-body">
                                 <p class="card-text">ផ្តល់ចំណេះដឹងអំពី បទ ពិសោធន៍ការចិញ្ចឹមសត្វ
                                 </p>
@@ -221,7 +103,7 @@
                     </div>
                     <div class="col-sm-4 col-xs-12">
                         <div class="card">
-                            <img class="card-img-top center-block" src="/img/market.png" alt="Card image" style="width:50%">
+                            <img class="card-img-top center-block" src="../img/market.png" alt="Card image" style="width:50%">
                             <div class="card-body">
                                 <p class="card-text">ចង់ដឹងពីព័ត៌មានផ្សេងៗ ពីកសិកម្មដែរឬទេ?
                                 </p>
@@ -252,7 +134,7 @@
                     <div class="col-sm-4">
                         <div class="card shadow-lg p-3 mb-5 bg-white rounded">
                             <div class="card-body">
-                                <img class="card-img-top center-block" src="/img/plant.png" alt="Card image" style="width:50%;height: 220px">
+                                <img class="card-img-top center-block" src="../img/plant.png" alt="Card image" style="width:50%;height: 220px">
                             </div>
                         </div>
                     </div>
@@ -261,13 +143,13 @@
 
             <div class="container">
                 <div>
-                    <label for="" ​​​​​​ class="labelNews" ​​ style="font-family: 'Chenla', cursive ;">គោលបំណងនៃគេហទំព័រ</label>
+                    <label for="" ​​​​​​ class="labelNews" ​​ style="font-family: 'Chenla', cursive ;">អំពីយើង</label>
                 </div>
                 <div class="row">
                     <div class="col-sm-4">
                         <div class="card shadow-lg p-3 mb-5 bg-white rounded">
                             <div class="card-body">
-                                <img class="card-img-top​​​ center-block" src="/img/plant.png" alt="Card image" style="width:50%;height: 220px">
+                                <img class="card-img-top​​​ center-block" src="../img/plant.png" alt="Card image" style="width:50%;height: 220px">
                             </div>
                         </div>
                     </div>
@@ -278,7 +160,7 @@
                                     កសិកររបស់ប្រទេសកម្ពុជាយើង ។
                                 </p>
 
-                                <button type="button" class="btn btn-outline-success">ចុចអានបន្ថែម</button>
+                                <button type="button" class="btn btn-outline-success" onclick="btnReadMoreClick()">ចុចអានបន្ថែម</button>
                             </div>
                         </div>
                     </div>
@@ -331,16 +213,7 @@
             <div class="clear"></div>
         </div>
 
-
     </div>
 </body>
-<!-- show phone menu when click on toggle-->
-<script>
-    $(document).ready(function () {
-        $('.toggle').click(function () {
-            $('.phone-menu2').slideToggle();
-        })
-    })
-</script>
 
 </html>
