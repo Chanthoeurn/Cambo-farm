@@ -15,15 +15,15 @@
     margin: auto;
 }
 
-.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+/* .carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
     display: block;
     max-width: 90%;
     height: 400px !important;
-}
-.container .row{
+} */
+/* .container .row{
     width: 100%;
     background-color: #F6F5FA;
-}
+} */
 
 .col-sm-4{
     padding: 0px;
@@ -77,7 +77,7 @@ button.btn.btn-outline-success:hover {
     -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
       clip-path: polygon(0 0%, 0% 100%, 100% 100%, 100% 20%, 0% 0);
 }
-.side ul li a{
+/* .side ul li a{
     color: white;
     font-size: 12px;
-}
+} */

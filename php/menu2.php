@@ -10,7 +10,7 @@
                               <img src="../img/Logo.jpg" alt="">
                         </div>
 
-                        <div class="menu">
+                        <div class="menu" >
                               <ul>
                                     <li><a href="#">ទំព័រដើម</a></li>
                                     <li><a href="#">អំពីសត្វ</a></li>

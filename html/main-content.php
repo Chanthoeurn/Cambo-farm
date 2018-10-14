@@ -5,17 +5,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Modern Agricuture</title>
+    <title>Main Content</title>
 
+   <?php
+        include('../php/headerMenuLink.php');
+    ?>
     <?php
         include('../php/headerlink.php');
     ?>
-     <!-- Link Menu Script-->
-     <script src="../js/menu.js"></script>
-     <!-- <link href="https://fonts.googleapis.com/css?family=Nokora" rel="stylesheet"> -->
-
      <link rel="stylesheet" href="../css/main-contentStyle.css">
-     <link rel="stylesheet" href="../css/menuStyle.css">
     <link rel="stylesheet" href="../css/footerstyle.css">
     <!-- Latest compiled and minified CSS & JS -->
     
@@ -24,12 +22,10 @@
 
 <body>
     <?php
-            include('../php/menu.php');
+            include('../php/menu2.php');
     ?>
 
-    <div class="test">
-        hello world
-    </div>
+    
     <div class="slide">
         <div class="container">
 
