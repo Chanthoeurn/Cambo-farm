@@ -24,7 +24,7 @@
             include('../php/menu2.php');
         ?>
           
-    <div class="slide">
+    <div class="slide" style="margin-top: 70px;">
         <div class="container">
 
             <div id="carousel-id" class="carousel slide" data-ride="carousel">
@@ -145,7 +145,7 @@
                     <div class="col-sm-4">
                         <div class="card shadow-lg p-3 mb-5 bg-white rounded">
                             <div class="card-body">
-                                <img class="card-img-top center-block" src="../img/plant.png" alt="Card image" style="width:50%;height: 220px">
+                                <img class="card-img-top center-block" src="../img/Agriculture-news.jpg" alt="Card image" style="width:50%;height: 220px">
                             </div>
                         </div>
                     </div>
@@ -160,7 +160,7 @@
                     <div class="col-sm-4">
                         <div class="card shadow-lg p-3 mb-5 bg-white rounded">
                             <div class="card-body">
-                                <img class="card-img-top​​​ center-block" src="../img/plant.png" alt="Card image" style="width:50%;height: 220px">
+                                <img class="card-img-top​​​ center-block" src="../img/team2.jpg" alt="Card image" style="width:50%;height: 220px">
                             </div>
                         </div>
                     </div>

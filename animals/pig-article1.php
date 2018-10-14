@@ -17,6 +17,7 @@
     ?>
      <!-- Link Menu Script-->
      <script src="../js/menu.js"></script>
+     <!-- <script src="../js/menu.js"></script> -->
 
     
     <link href="https://fonts.googleapis.com/css?family=Nokora" rel="stylesheet">
@@ -26,6 +27,7 @@
             margin-top:0px;
         }
     </style>
+    
 </head>
 
 <body>

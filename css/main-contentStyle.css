@@ -118,6 +118,7 @@
         .slide{
             /* position: relative; */
             
+            
         }
         .card{
             /* overflow: hidden; */
@@ -128,3 +129,8 @@
             position: relative;
             background-color: red !important;
         }
+        /* .pineappleicon
+        {
+            width: 300px;
+            height: 100px;
+        } */

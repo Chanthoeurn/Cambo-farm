@@ -8,6 +8,11 @@ body {
     font-family: "Helvetica Neue",sans-serif;
     font-weight: lighter;
 }
+/* .mysticky{
+    width: 100%;
+    height: 250px;
+    background-image: url(../img/sticky.png);
+} */
 
 .wrapper{
     position: relative;
