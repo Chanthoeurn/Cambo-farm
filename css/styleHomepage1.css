@@ -1,0 +1,83 @@
+/* 
+
+.Full-screen{
+    width: 90%;
+    margin: auto;
+} */
+
+
+
+/*----------------> .web-content <----------------*/
+.web-content{
+    position: relative;
+    /* top: 470px; */
+    width: 90%;
+    margin: auto;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img, .img-responsive, .thumbnail a>img, .thumbnail>img {
+    display: block;
+    max-width: 90%;
+    height: 400px !important;
+}
+.container .row{
+    width: 100%;
+    background-color: #F6F5FA;
+}
+
+.col-sm-4{
+    padding: 0px;
+    /* background-color: white; */
+}
+.col-sm-4 .card{
+    margin: 10px;
+    background-color: white;
+    border-radius: 10px;
+    padding-bottom: 50px;
+    /* box-shadow:  0px 5px 5px 0px #888888,  0px 5px 5px 5px #888888; */
+    -webkit-box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
+    -moz-box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
+    box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
+}
+/* .col-sm-4 .card .card-img-top{
+    margin-left: 50px;
+} */
+.col-sm-4 .card-body .card-text{
+    text-align: center;
+}
+
+p.card-text {
+    padding: 10px;
+    font-family: 'Chenla';
+}
+.labelNews{
+    width: 200px;
+    margin: 10px 10px 0px 0;
+    padding: 10px 30px 10px 2px;
+    background-color: #5CC703;
+    color: white;
+
+     -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
+  clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 100%, 75% 0);
+}
+button.btn.btn-outline-success {
+    background-color:white;
+    border: 1px solid #5CC703;
+    font-family: 'Chenla', cursive;
+}
+button.btn.btn-outline-success:hover {
+    background-color:green;
+    border: 1px solid green;
+    color: white;
+}
+/* footer-sytle */
+.myfooter{
+    background-image: linear-gradient(to bottom right, #89c94a, #75ffac);
+    color: red;
+    -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
+      clip-path: polygon(0 0%, 0% 100%, 100% 100%, 100% 20%, 0% 0);
+}
+.side ul li a{
+    color: white;
+    font-size: 12px;
+}
