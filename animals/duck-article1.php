@@ -7,10 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>សត្វទា</title>
     <link rel="stylesheet" href="../css/articleStyle.css">
-    <link rel="stylesheet" href="../css/menuStyle.css">
+    <!-- <link rel="stylesheet" href="../css/menuStyle.css"> -->
     <link rel="stylesheet" href="../css/footerstyle.css">
     <?php
         include('../php/headerlink.php');
+    ?>
+    <?php
+        include('../php/headerMenuLink.php');
     ?>
      <!-- Link Menu Script-->
      <script src="../js/menu.js"></script>
@@ -18,15 +21,19 @@
     
     <link href="https://fonts.googleapis.com/css?family=Nokora" rel="stylesheet">
 
-
+    <style>
+        .content{
+            margin-top:0px;
+        }
+    </style>
 </head>
 
 <body>
     <?php
-            include('../php/menu.php');
+            include('../php/menu2.php');
     ?>
 
-    <div class="container">
+    <div class="container"  style="margin-top:60px;">
         <div class="sub-menu">
             <h5>ទំព័រដើម &gt;
                 <span>អំពីសត្វ</span>
