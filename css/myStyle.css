@@ -6,6 +6,10 @@
         {
             padding: 20px;
         }
+        .img-only
+        {
+            width: 100%;
+        }
         img
         {
             width: 60%;
