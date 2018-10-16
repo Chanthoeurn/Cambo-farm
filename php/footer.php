@@ -1,5 +1,7 @@
 <footer class="myfooter">
-                <div class="container">
+                <div class="container" style="background-image:linear-gradient(to bottom right, #89c94a, #75ffac);
+    -webkit-clip-path: polygon(0 0, 0 100%, 100% 100%, 100% 25%, 75% 0);
+      clip-path: polygon(0 0%, 0% 100%, 100% 100%, 100% 20%, 0% 0);">
                     <div class="col-sm-4">
 
                     </div>

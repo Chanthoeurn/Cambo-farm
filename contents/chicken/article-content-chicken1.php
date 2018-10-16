@@ -18,15 +18,21 @@
 
     <!-- link fonts -->
     <link href="https://fonts.googleapis.com/css?family=Hanuman|Khmer" rel="stylesheet">
-    <style>
-    </style>
+    
+    <link href="https://fonts.googleapis.com/css?family=Angkor" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/menuStyle2.css">
+    <link rel="stylesheet" href="../../css/footerstyle.css">
 </head>
 
 <body>
-    <div class="container">
+    <?php
+            include('../../php/menu2.php');
+    ?>
+
+    <div class="container" style="margin-top:70px;"> 
 
         <div class="sub-menu">
-            <h5>ទំព័រដើម &gt;
+            <h5 style="font-family: 'Angkor', cursive;">ទំព័រដើម &gt;
                 <span>អំពីសត្វ</span>
             </h5>
         </div>
@@ -300,6 +306,10 @@
         </div>
 
     </div>
+    <?php
+            include('../../php/footer.php');
+    ?>
+
 </body>
 
 </html>

@@ -18,12 +18,16 @@
 
     <!-- link fonts -->
     <link href="https://fonts.googleapis.com/css?family=Hanuman|Khmer" rel="stylesheet">
-    <style>
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Angkor" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/menuStyle2.css">
+    <link rel="stylesheet" href="../../css/footerstyle.css">
 </head>
 
 <body>
-    <div class="container">
+    <?php
+        include('../../php/menu2.php');
+    ?>
+    <div class="container" style="margin-top:70px;">
 
         <div class="sub-menu">
             <h5>ទំព័រដើម &gt;
@@ -263,7 +267,7 @@
                         msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
                 </div>
                 <div class="link" style="padding: 5px;">
-                    <a href="https://server.maff.gov.kh/parse/files/myAppId5hD7ypUYw61sTqML/f30a7bf4e1895671ceedeb0cac498563_1503148113.pdf">សូមចុចទីនេះដើម្បីទាញយកឯកសារពេញ​​​​​ &dArr;</a>
+                    <a href="https://drive.google.com/file/d/0B9HHGOukiTdEMlRUX1pSd3pGbDA/view">សូមចុចទីនេះដើម្បីទាញយកឯកសារពេញ​​​​​ &dArr;</a>
                 </div>
                 
                 <div class="editor">
@@ -306,6 +310,10 @@
             </div>
         </div>
     </div>
+
+    <?php
+         include('../../php/footer.php');
+    ?>
 </body>
 
 </html>

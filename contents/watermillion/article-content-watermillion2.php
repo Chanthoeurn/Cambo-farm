@@ -18,15 +18,19 @@
 
     <!-- link fonts -->
     <link href="https://fonts.googleapis.com/css?family=Hanuman|Khmer" rel="stylesheet">
-    <style>
-    </style>
+    <link href="https://fonts.googleapis.com/css?family=Angkor" rel="stylesheet">
+    <link rel="stylesheet" href="../../css/menuStyle2.css">
+    <link rel="stylesheet" href="../../css/footerstyle.css">
 </head>
 
 <body>
-    <div class="container">
+<?php
+            include('../../php/menu2.php');
+    ?>
+    <div class="container"  style="margin-top:70px;">
 
         <div class="sub-menu">
-            <h5>ទំព័រដើម &gt;
+            <h5 style="font-family: 'Angkor', cursive;">ទំព័រដើម &gt;
                 <span>អំពីដំណាំ</span>
             </h5>
         </div>
@@ -183,7 +187,7 @@
                     <label for="" ​​​​​​ class="labelNews" style="font-family: 'Chenla', cursive">អត្ថបទទាក់ទង</label>
                 </div>
                 <div class="sub1">
-                    <a href="article-content-watermillion1.html">
+                    <a href="article-content-watermillion1.php">
                         <div class="sub1-img">
                             <img src="../../img/watermillion/wmelon11.jpg">
                         </div>
@@ -193,7 +197,7 @@
                     </a>
                 </div>
                 <div class="sub1">
-                    <a href="article-content-watermillion5.html">
+                    <a href="article-content-watermillion5.php">
                         <div class="sub1-img">
                             <img src="../../img/watermillion/wmelon4.jpg">
                         </div>
@@ -203,7 +207,7 @@
                     </a>
                 </div>
                 <div class="sub1">
-                    <a href="article-content-watermillion3.html">
+                    <a href="article-content-watermillion3.php">
                         <div class="sub1-img">
                             <img src="../../img/watermillion/wmelon10.jpg">
                         </div>
@@ -213,7 +217,7 @@
                     </a>
                 </div>
                 <div class="sub1">
-                    <a href="article-content-watermillion4.html">
+                    <a href="article-content-watermillion4.php">
                         <div class="sub1-img">
                             <img src="../../img/watermillion/wmelon6.jpg">
                         </div>
@@ -227,6 +231,10 @@
         </div>
 
     </div>
+    <?php
+            include('../../php/footer.php');
+    ?>
+
 </body>
 
 </html>

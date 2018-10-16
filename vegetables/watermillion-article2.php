@@ -35,7 +35,7 @@
 
     <div class="container" style="margin-top:60px;">
         <div class="sub-menu">
-            <h5>ទំព័រដើម &gt;
+            <h5 style="font-family: 'Angkor', cursive;">ទំព័រដើម &gt;
                 <span>អំពីដំណាំ</span>
             </h5>
         </div>
@@ -50,7 +50,7 @@
                 <h5>ការប្រមូលផលឪឡឹក</h5>
                 <p>ដោយយោលទៅលើឪឡឹកជា ប្រភេទដំណាំ ប្រមូលយកផ្លែទុំពេញ លក្ខណៈ នៅនឹងដើម ដូចនេះគេត្រូវ សំគាល់ទៅលើ ដៃទាំងពីរអមទងផ្លែ​​ ​.​ .  .</p>
                 <p class="times"> &#128336; ២​​ នាទីមុន</p>
-                <a href="#">ចុចអានបន្ត...</a>
+                <a href="../contents/watermillion/article-content-watermillion5.php">ចុចអានបន្ត...</a>
             </div>
         </div>
         <div style="height:400px">

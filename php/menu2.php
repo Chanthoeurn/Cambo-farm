@@ -15,10 +15,10 @@
 
                         <div class="menu" >
                               <ul>
-                                    <li><a href="#">ទំព័រដើម</a></li>
-                                    <li><a href="#">អំពីសត្វ</a></li>
-                                    <li><a href="#">អំពីដំណាំ</a></li>
-                                    <li><a href="#">ផ្សេងៗ</a></li>
+                                    <li><a href="../html/index.php">ទំព័រដើម</a></li>
+                                    <li><a href="../html/main-content-animals.php">អំពីសត្វ</a></li>
+                                    <li><a href="../html/main-content-vegatables.php">អំពីដំណាំ</a></li>
+                                    <li><a href="../html/article-others.php">ផ្សេងៗ</a></li>
                               </ul>
                         </div>
                   </nav>

@@ -36,7 +36,7 @@
 
     <div class="container" style="margin-top:60px;">
     <div class="sub-menu">
-            <h5>ទំព័រដើម &gt;
+            <h5 style="font-family: 'Angkor', cursive;">ទំព័រដើម &gt;
                 <span>អំពីសត្វ</span>
             </h5>
         </div>
@@ -53,7 +53,7 @@
 .បាតទ្រូង និងជញ្ជាំងធ្វើពីបន្ទះឬស្សី ឬ សំណាញ់ដែក ឬ សំណាញ់នីឡុង។ 
 .បាតទ្រងក្រាលអង្កាម ឬកំទេចអាចម៍ រណា (ដើម្បីរក្សាកំដៅ) រហូតដល់កូន មាន់មានអាយុ ៣០ថ្ងៃ ឬ ១ ខែ . . .</p>
                 <p class="times"> &#128336; ២​​ នាទីមុន</p>
-                <a href="#">ចុចអានបន្ត...</a>
+                <a href="../contents/chicken/article-content-chicken1.php">ចុចអានបន្ត...</a>
             </div>
         </div>
 

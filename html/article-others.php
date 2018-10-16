@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>សត្វជ្រូក</title>
+    <title>ម្នាស់</title>
     <link rel="stylesheet" href="../css/articleStyle.css">
     <!-- <link rel="stylesheet" href="../css/menuStyle.css"> -->
     <link rel="stylesheet" href="../css/footerstyle.css">
@@ -35,34 +35,34 @@
 
     <div class="container" style="margin-top:60px;">
         <div class="sub-menu">
-            <h5 style="font-family: 'Angkor', cursive;">ទំព័រដើម &gt;
+            <h5>ទំព័រដើម &gt;
                 <span>អំពីដំណាំ</span>
             </h5>
         </div>
         <div class="title">
-            <h1 style="padding: 20px;color:black; font-size: 20px ;font-family: 'Nokora', serif;">ដំណាំឪឡឹក</h1>
+            <h1 style="color:black; font-size: 20px ;font-family: 'Nokora', serif;padding: 20px">ដំណាំឪឡឹក</h1>
         </div>
         <div class="content">
             <div class="img">
                 <img src="../img/carrots.jpg" alt="">
             </div>
             <div class="article">
-                <h5>ការជ្រើសរើសពូជជ្រូក</h5>
-                <p>ជាទូទៅ ពូជជ្រូកសំរាប់ផលិតកម្មជ្រូកបែបឧស្សាហកម្មភាគច្រើន គឺ ឡាចវ៉ាយ (Large white) ឡែនដ្រាស់ (Landrace) និងពូជជ្រូកឌុយរុំក (Duroc) ឬពូជកូនកាត់ ។ ពូជទាំង ៣ ប្រភេទនេះ ផលិតសាច់ក្រហម...</p>
-                 <p class="times"> &#128336; ២​​ នាទីមុន</p>
-                <a href="../contents/pig/article-content1.php">ចុចអានបន្ត...</a>
+                <h5>ការដាំម្នាស់ជាលក្ខណះគ្រួសារ</h5>
+                <p>ម្នាស់ជាដំណាំហូបផ្លែដែលប្រជាជនយើងមួយចំនួនអាចយកទៅបរិភោគបានច្រើនបែបច្រើនយ៉ាង ពេលខ្លះអាចហូបផ្លែ ពេលខ្លះយកទៅស្លតាមចំណង់ចំនូលចិត្ត​​។ នេះជាវិធីងាយៗសម្រាប់ដាំម្នាស់ . . .</p>
+                <p class="times"> &#128336; ២​​ នាទីមុន</p>
+                <a href="#">ចុចអានបន្ត...</a>
             </div>
         </div>
         <div style="height:400px">
- 
         </div>
-        
+     
+       
     </div>
     <div class="page">
         <div class="pagination">
             <a href="#">&laquo;</a>
-            <a href="../animals/pig-article1.php">1</a>
-            <a href="../animals/pig-article2.php" class="active">2</a>
+            <a href="#"  class="active">1</a>
+            <a href="#">2</a>
             <a href="#">3</a>
             <a href="#">4</a>
             <a href="#">5</a>

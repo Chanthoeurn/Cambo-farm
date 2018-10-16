@@ -103,7 +103,7 @@
                             <p style="font-family: 'Chenla', cursive;">តើលោកអ្នកចង់ដឹងពីវិធីសាស្រ្តដាំម្នាស់មែនទេ?
                             </p>
                             <p>
-                                <a href="#" style="font-family: 'Chenla', cursive;" >ចុចអានបន្ត​ &raquo;</a>
+                                <a href="../vegetables/pineapple-article.php" style="font-family: 'Chenla', cursive;" >ចុចអានបន្ត​ &raquo;</a>
                             </p>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                             <p style="font-family: 'Chenla', cursive;">តើលោកអ្នកចង់ដឹងពីវិធីសាស្រ្តដាំឪឡឹកមែនទេ?
                             </p>
                             <p>
-                                <a href="#" style="font-family: 'Chenla', cursive;">ចុចអានបន្ត​ &raquo;</a>
+                                <a href="../vegetables/watermillion-article1.php" style="font-family: 'Chenla', cursive;">ចុចអានបន្ត​ &raquo;</a>
                             </p>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                             <p style="font-family: 'Chenla', cursive;">តើលោកអ្នកចង់ដឹងពីវិធីសាស្រ្តដាំពោតមែនទេ?
                             </p>
                             <p>
-                                <a href="#" style="font-family: 'Chenla', cursive;">ចុចអានបន្ត​ &raquo;</a>
+                                <a href="../vegetables/corn-article.php" style="font-family: 'Chenla', cursive;">ចុចអានបន្ត​ &raquo;</a>
                             </p>
                         </div>
                     </div>

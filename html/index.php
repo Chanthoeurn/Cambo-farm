@@ -97,7 +97,7 @@
                             <div class="card-body">
                                 <p class="card-text">ផ្តល់ចំណេះដឹងអំពី បទ ពិសោធន៍ការដាំដំណាំ
                                 </p>
-                                <button type="button" class="btn btn-outline-success center-block">ចុចទីនេះ</button>
+                                <button type="button" class="btn btn-outline-success center-block"​​ onclick="vegatableClick()">ចុចទីនេះ</button>
                             </div>
                         </div>
                     </div>
@@ -107,7 +107,7 @@
                             <div class="card-body">
                                 <p class="card-text">ផ្តល់ចំណេះដឹងអំពី បទ ពិសោធន៍ការចិញ្ចឹមសត្វ
                                 </p>
-                                <button type="button" class="btn btn-outline-success center-block">ចុចទីនេះ</button>
+                                <button type="button" class="btn btn-outline-success center-block" onclick="animalClick()">ចុចទីនេះ</button>
                             </div>
                         </div>
 
@@ -118,7 +118,7 @@
                             <div class="card-body">
                                 <p class="card-text">ចង់ដឹងពីព័ត៌មានផ្សេងៗ ពីកសិកម្មដែរឬទេ?
                                 </p>
-                                <button type="button" class="btn btn-outline-success center-block">ចុចទីនេះ</button>
+                                <button type="button" class="btn btn-outline-success center-block" onclick="othersClick()">ចុចទីនេះ</button>
                             </div>
                         </div>
                     </div>
@@ -138,7 +138,7 @@
                                 </p>
                                 <p class="card-text">ទីនេះមិនត្រឹមតែផ្តល់ពីចំណេះដឹង និង បទពិសោធន៍ល្អៗដល់យើងទាំងអស់គ្នានេះទេ ថែមទាំងមាន ពីព័ត៌មានផ្សេងៗអំពីកសិកម្មថែមទៀតផង
                                 </p>
-                                <button type="button" class="btn btn-outline-success">ចុចទីនេះ</button>
+                                <button type="button" class="btn btn-outline-success" onclick="othersClick()">ចុចទីនេះ</button>
                             </div>
                         </div>
                     </div>
@@ -171,7 +171,7 @@
                                     កសិកររបស់ប្រទេសកម្ពុជាយើង ។
                                 </p>
 
-                                <button type="button" class="btn btn-outline-success" onclick="btnReadMoreClick()">ចុចអានបន្ថែម</button>
+                                <button type="button" class="btn btn-outline-success" onclick="teamClick()">ចុចអានបន្ថែម</button>
                             </div>
                         </div>
                     </div>
@@ -194,12 +194,12 @@
                             <div class="side">
                                 <ul>
                                     <li>
-                                        <a href="#">អំពីដំណាំ</a>
+                                        <a href="../html/main-content-vegatables.php">អំពីដំណាំ</a>
                                         <li>
-                                            <a href="#">អំពីសត្វ</a>
+                                            <a href="../html/main-content-animals.php">អំពីសត្វ</a>
                                         </li>
                                         <li>
-                                            <a href="#">ផ្សេងៗទៀត</a>
+                                            <a href="../html/article-others.php">ផ្សេងៗទៀត</a>
                                         </li>
                                     </li>
                                 </ul>
@@ -225,6 +225,30 @@
                 </div>
             </footer>
     </div>
+
+    <script>
+
+        //Veg Click
+        function vegatableClick(){
+            // window.open("../html/main-content-vegatables.php");
+            location.href="../html/main-content-vegatables.php";
+        }
+        
+        //Animals Click
+        function animalClick(){
+            location.href="../html/main-content-animals.php";
+        }
+        //other click
+        function othersClick(){
+            location.href="../html/article-others.php";
+        }
+
+        //team click
+        function teamClick(){
+            location.href="../html/about.php";
+        }
+
+    </script>
 </body>
 
 </html>

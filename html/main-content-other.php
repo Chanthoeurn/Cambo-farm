@@ -103,7 +103,7 @@
                             <p style="font-family: 'Chenla', cursive;">តើលោកអ្នកចង់ដឹងពីវិធីសាស្រ្តចិញ្ចឹមជ្រូកមែនទេ?
                             </p>
                             <p>
-                                <a href="../animals/pig-article1.php" style="font-family: 'Chenla', cursive;" >ចុចអានបន្ត​ &raquo;</a>
+                                <a href="#" style="font-family: 'Chenla', cursive;" >ចុចអានបន្ត​ &raquo;</a>
                             </p>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                             <p style="font-family: 'Chenla', cursive;">តើលោកអ្នកចង់ដឹងពីវិធីសាស្រ្តចិញ្ចឹមមាន់មែនទេ?
                             </p>
                             <p>
-                                <a href="../animals/chicken-article.php" style="font-family: 'Chenla', cursive;">ចុចអានបន្ត​ &raquo;</a>
+                                <a href="#" style="font-family: 'Chenla', cursive;">ចុចអានបន្ត​ &raquo;</a>
                             </p>
                         </div>
                     </div>
@@ -129,7 +129,7 @@
                             <p style="font-family: 'Chenla', cursive;">តើលោកអ្នកចង់ដឹងពីវិធីសាស្រ្តចិញ្ចឹមទាមែនទេ?
                             </p>
                             <p>
-                                <a href="../animals/duck-article1.php" style="font-family: 'Chenla', cursive;">ចុចអានបន្ត​ &raquo;</a>
+                                <a href="#" style="font-family: 'Chenla', cursive;">ចុចអានបន្ត​ &raquo;</a>
                             </p>
                         </div>
                     </div>
