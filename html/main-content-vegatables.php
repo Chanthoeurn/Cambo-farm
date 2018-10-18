@@ -37,41 +37,34 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="item">
-                        <img src="https://via.placeholder.com/1180x500">
+                        <img src="../img/watermillion/wmelon1.jpg">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>Example headline.</h1>
-                                <p>Note: If you're viewing this page via a
-                                    <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display
-                                    properly due to web browser security rules.</p>
+                                <h1>ការដាំឪឡឹក</h1>
                                 <p>
-                                    <a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a>
+                                    <a class="btn btn-lg btn-primary" href="../vegetables/watermillion-article1.php" role="button">អានបន្ត</a>
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="https://via.placeholder.com/1180x500">
+                        <img src="../img/pineapple/papple1.jpg">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>Another example headline.</h1>
-                                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                                    at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                <h1>ការដាំម្នាស់</h1>
                                 <p>
-                                    <a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a>
+                                    <a class="btn btn-lg btn-primary" href="../vegetables/pineapple-article.php" role="button">អានបន្ត</a>
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="item active">
-                        <img src="https://via.placeholder.com/1180x500">
+                        <img src="../img/corn/cornfield1.jpg">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>One more for good measure.</h1>
-                                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                                    at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                <h1>ការដាំពោត</h1>
                                 <p>
-                                    <a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a>
+                                    <a class="btn btn-lg btn-primary" href="../vegetables/corn-article.php" role="button">អានបន្ត</a>
                                 </p>
                             </div>
                         </div>

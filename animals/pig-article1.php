@@ -46,7 +46,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/carrots.jpg" alt="">
+                <img src="../img/pig/pigpen1.jpg" alt="">
             </div>
             <div class="article">
                 <h5>ការសាងសង់ទ្រង់សម្រាប់សត្វជ្រូក</h5>
@@ -58,7 +58,7 @@
 
         <div class="content">
             <div class="img">
-                <img src="../img/watermillion.jpg" alt="">
+                <img src="../img/pig/pigfood1.jpg" alt="">
             </div>
             <div class="article">
                 <h5>ការផ្តល់ចំណី និង ទឹកសម្រាប់ជ្រូក</h5>
@@ -70,7 +70,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/carrots.jpg" alt="">
+                <img src="../img/pig/pigcrossbreed.jpg" alt="">
             </div>
             <div class="article">
                 <h5>ការបង្កាត់ពូជជ្រូកដ៏មានប្រសិទ្ធិភាព</h5>
@@ -82,7 +82,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/watermillion.jpg" alt="">
+                <img src="../img/pig/preg3.jpg" alt="">
             </div>
             <div class="article">
                 <h5>វិធីថែទាំមេជ្រូកផើម (កំពុងមានផ្ទៃពោះ)</h5>

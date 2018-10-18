@@ -44,7 +44,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/carrots.jpg" alt="">
+                <img src="../img/duck/duck1.jpg" alt="">
             </div>
             <div class="article">
                 <h5> ប្រភេទទា និង ការជ្រើសរើសពូជទាសម្រាប់ចិញ្ចឹមព្រមទាំងអត្ថប្រយោជន៍</h5>
@@ -56,7 +56,7 @@
 
         <div class="content">
             <div class="img">
-                <img src="../img/watermillion.jpg" alt="">
+                <img src="../img/duck/duckegg1.jpg" alt="">
             </div>
             <div class="article">
                 <h5>របៀបភ្ញាស់ពងទាដ៏មានប្រសិទ្ធិភាពខ្ពស់</h5>
@@ -67,7 +67,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/carrots.jpg" alt="">
+                <img src="../img/duck/duckpen1.jpg" alt="">
             </div>
             <div class="article">
                 <h5>ការសាងសងទ្រុងសម្រាប់ទាដែលសមស្របបំផុត និង ការផ្តល់ចំណីអាហារសម្រាប់ទា</h5>
@@ -80,7 +80,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/watermillion.jpg" alt="">
+                <img src="../img/duck/duck4.jpg" alt="">
             </div>
             <div class="article">
                 <h5>របៀបចិញ្ចឹមសត្វទា និង ការចែទាំសុខភាពទា </h5>

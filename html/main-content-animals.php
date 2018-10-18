@@ -37,41 +37,34 @@
                 </ol>
                 <div class="carousel-inner">
                     <div class="item">
-                        <img src="https://via.placeholder.com/1180x500">
+                        <img src="../img/main-img/raisinganimals.jpg">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>Example headline.</h1>
-                                <p>Note: If you're viewing this page via a
-                                    <code>file://</code> URL, the "next" and "previous" Glyphicon buttons on the left and right might not load/display
-                                    properly due to web browser security rules.</p>
+                                <h1>ការចិញ្ចឹមជ្រូក</h1>
                                 <p>
-                                    <a class="btn btn-lg btn-primary" href="#" role="button">Sign up today</a>
+                                    <a class="btn btn-lg btn-primary" href="../animals/pig-article1.php" role="button">អានបន្ត</a>
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="item">
-                        <img src="https://via.placeholder.com/1180x500">
+                        <img src="../img/main-img/othersinfo.jpg">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>Another example headline.</h1>
-                                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                                    at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                <h1>ការចិញ្ចឹមមាន់</h1>
                                 <p>
-                                    <a class="btn btn-lg btn-primary" href="#" role="button">Learn more</a>
+                                    <a class="btn btn-lg btn-primary" href="../animals/chicken-article.php" role="button">អានបន្ត</a>
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div class="item active">
-                        <img src="https://via.placeholder.com/1180x500">
+                        <img src="../img/duck/duck1.jpg">
                         <div class="container">
                             <div class="carousel-caption">
-                                <h1>One more for good measure.</h1>
-                                <p>Cras justo odio, dapibus ac facilisis in, egestas eget quam. Donec id elit non mi porta gravida
-                                    at eget metus. Nullam id dolor id nibh ultricies vehicula ut id elit.</p>
+                                <h1>ការចិញ្ចឹមទា</h1>
                                 <p>
-                                    <a class="btn btn-lg btn-primary" href="#" role="button">Browse gallery</a>
+                                    <a class="btn btn-lg btn-primary" href="../animals/duck-article1.php" role="button">អានបន្ត</a>
                                 </p>
                             </div>
                         </div>
