@@ -36,15 +36,15 @@
     <div class="container" style="margin-top:60px;">
         <div class="sub-menu">
             <h5 style="font-family: 'Angkor', cursive;">ទំព័រដើម &gt;
-                <span>អំពីដំណាំ</span>
+                <span>អំពីសត្វ</span>
             </h5>
         </div>
         <div class="title">
-            <h1 style="padding: 20px;color:black; font-size: 20px ;font-family: 'Nokora', serif;">ដំណាំឪឡឹក</h1>
+            <h1 style="padding: 20px;color:black; font-size: 20px ;font-family: 'Nokora', serif;">ការចិញ្ចឹមជ្រូក</h1>
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/carrots.jpg" alt="">
+                <img src="../img/pig/d1.jpg" alt="">
             </div>
             <div class="article">
                 <h5>ការជ្រើសរើសពូជជ្រូក</h5>

@@ -59,7 +59,6 @@
 
        <div style="height:400px">
         </div>
-        
     </div>
     <div class="page">
         <div class="pagination">

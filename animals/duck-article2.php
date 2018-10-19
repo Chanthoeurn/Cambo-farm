@@ -45,7 +45,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/carrots.jpg" alt="">
+                <img src="../img/duck/duck8.png" alt="">
             </div>
             <div class="article">
                 <h5> ជម្ងឺដែលអាចកើតមានលើសត្វទា និង វីធីក្នុងការព្យាបាលដោយមានប្រសិទ្ធិភាព</h5>
