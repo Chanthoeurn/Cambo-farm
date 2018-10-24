@@ -53,21 +53,24 @@ nav {
 nav ul {
     line-height: 60px;
     list-style: none;
-    background: #4e9525;
+    background-color: white;
     overflow: hidden;
-    color: #fff;
+    color: black;
     padding: 0;
     text-align: right;
     margin: 0;
     padding-right: 40px;
     transition: 1s;
-}
-
-nav.black ul {
-    background: #5CC703;
     -webkit-box-shadow: 0px 4px 8px -2px rgba(50,51,48,1);
 -moz-box-shadow: 0px 4px 8px -2px rgba(50,51,48,1);
 box-shadow: 0px 4px 8px -2px rgba(50,51,48,1);
+}
+
+nav.black ul {
+    background-color: white ;
+    -webkit-box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
+    -moz-box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
+    box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
 }
 
 nav ul li {
@@ -78,7 +81,7 @@ nav ul li {
 
 nav ul li a {
     text-decoration: none !important;
-    color: white;
+    color: #89c94a;
     position: relative;
     font-size: 20px;
     display: block;
@@ -95,10 +98,13 @@ nav ul li a:before{
     content: '';
     width: 50px;
     position: absolute;
-    border-bottom: 5px solid white;
+    border-bottom: 5px solid #89c94a;
     bottom:0;
     right: 500px;
     transition: 0.5s all;
+}
+nav ul li a:hover{
+    color: #005792;
 }
 nav ul li a:hover:before{
     right: 0;
@@ -110,7 +116,7 @@ nav ul li a:hover:before{
     z-index: 10000000;
     line-height: 60px;
     width: 100%;
-    background: #5CC703;
+    /* background: red; */
     text-align: right;
     box-sizing: border-box;
     padding: 15px 24px;
@@ -138,13 +144,16 @@ box-shadow: 0px 4px 8px -2px rgba(50,51,48,1);
     nav ul {
           max-height: 0px;
           background: white;
-          -webkit-box-shadow: 0px 4px 8px -2px rgba(50,51,48,1);
--moz-box-shadow: 0px 4px 8px -2px rgba(50,51,48,1);
-box-shadow: 0px 4px 8px -2px rgba(50,51,48,1);
+          -webkit-box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
+    -moz-box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
+    box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
     }
 
-    nav.black ul {
-          background: white;
+    nav.black{
+          background-color:white !important;
+          -webkit-box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
+    -moz-box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
+    box-shadow: 0px 0px 37px 0px rgba(145,145,145,0.53);
     }
 
     .showing {
@@ -160,7 +169,7 @@ box-shadow: 0px 4px 8px -2px rgba(50,51,48,1);
     }
     nav ul li a {
           text-decoration: none;
-          color: black;
+          color: #89c94a;
           position: relative;
           font-size: 20px;
           display: block;
@@ -186,6 +195,7 @@ box-shadow: 0px 4px 8px -2px rgba(50,51,48,1);
     .menu-icon {
           display: block;
           padding-bottom: 30px;
+          color: #89c94a;
     }
 
 }

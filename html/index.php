@@ -8,14 +8,18 @@
     <title>Homepage</title>
 
     <link rel="stylesheet" href="../css/styleHomepage1.css">
+    <link rel="stylesheet" href="../css/menuStyle2.css">
     <?php
         include('../php/headerMenuLink.php');
     ?>
     <?php
         include('../php/headerlink.php');
     ?>
-    <!-- Link Menu Script-->
-    <!-- <script src="../js/menu.js"></script> -->
+    <style>
+        a{
+            color:white;
+        }
+    </style>
 </head>
 
 <body>

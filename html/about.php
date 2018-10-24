@@ -7,33 +7,61 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>About Us</title>
     <link rel="stylesheet" href="../css/about.css">
-    <link rel="stylesheet" href="../css/menuStyle.css">
     <link rel="stylesheet" href="../css/footerstyle.css">
     <?php
-        include('php/headerlink.php');
+        include('../php/headerlink.php');
+    ?>
+    <?php
+        include('../php/headerMenuLink.php');
     ?>
      <!-- Link Menu Script-->
      <script src="../js/menu.js"></script>
-
     
     <link href="https://fonts.googleapis.com/css?family=Nokora" rel="stylesheet">
+    <style>
+        .content{
+            margin:10px;
+        }
+        .content2{
+            margin:10px;
+        }
+        .content .article p{
+            font-size:14px;
 
+        }
+
+        @media (min-width: 350px) and (max-width: 767px){
+
+            .content .img .image img{
+                width: 160px !important;
+                height: 160px !important;
+                border-radius: 50%;
+            }
+
+             .content2 .img .image img{
+                width: 160px !important;
+                height: 160px !important;
+                border-radius: 50%;
+            }
+        }
+    </style>
 
 </head>
 
 <body>
-    <?php
-            include('../php/menu.php');
+     <?php
+            include('../php/menu2.php');
     ?>
 
-    <div class="container">
+
+    <div class="container" style="margin-top:60px;">
         <div class="sub-menu">
-            <h5>ទំព័រដើម &gt;
+            <h5 style="font-family: 'Hanuman', serif;">ទំព័រដើម &gt;
                 <span>អំពីយើង</span>
             </h5>
         </div>
         
-        <div class="content">
+        <div class="content" >
             <div class="img">
                 <div class="social">
                     <a href="#">
@@ -52,9 +80,9 @@
                 </div>
 
             </div>
-            <div class="article" style="color: black;">
+            <div class="article" style="color: black; " >
                <h5>ឈីម ចាន់ធឿន</h5>
-                <p>Tel: 086329221</p>
+                <p style="font-size: 14px;">Tel: 086329221</p>
                 <p>Facebook: Chanthoeurn Chhim</p>
                 <p>Email: Chanthoeurnchhim168@gmail.com</p>
                 <p>Adress: Kampong Speu Province</p>
