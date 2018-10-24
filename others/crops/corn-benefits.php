@@ -33,7 +33,7 @@
 
         <div class="sub-menu">
             <h5 style="font-family: 'Angkor', cursive;">ទំព័រដើម &gt;
-                <span>អំពីផ្លែឈើ</span>
+                <span>ផ្សេងៗ</span>
             </h5>
         </div>
         <div class="title">
@@ -153,9 +153,6 @@
                 <div class="youtube-link">
                     <iframe src="https://www.youtube.com/embed/05dJAGezilg" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen"
                         msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen"></iframe>
-                </div>
-                <div class="link" style="padding: 5px;">
-                    <a href=" https://server.maff.gov.kh/parse/files/myAppId5hD7ypUYw61sTqML/513d9aae23c40fdf7b4b7080828afbc5_1503150473.pdf">សូមចុចទីនេះដើម្បីទាញយកឯកសារពេញ​​​​​ &dArr;</a>
                 </div>
 
                 <div class="editor">
