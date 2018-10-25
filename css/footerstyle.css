@@ -9,3 +9,18 @@
     color: white;
     font-size: 12px;
 }
+div.social{
+    width: 100%;
+    height: 100%;
+    margin-top: 40px;
+}  
+
+.myfooter .col-sm-4 .social i{
+    
+    padding: 10px;
+    font-size: 30px !important;
+    color:white;
+}
+.myfooter .col-sm-4 .social i:hover{
+    cursor: pointer;
+}

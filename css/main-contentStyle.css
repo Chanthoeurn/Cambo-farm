@@ -81,6 +81,11 @@
             text-align: center;
             margin-top: 20px;
         }
+        .jumbotron .container {
+            max-width: 100%;
+            margin-top: 20px;
+            margin-bottom: 20px;
+        }
 
         .future img {
             width: 100px;
@@ -96,6 +101,9 @@
         }
         .duck-img{
             width: 82px;
+        }
+        .corn-img{
+            /* padding: 20px; */
         }
 
         .jumbotron:hover{

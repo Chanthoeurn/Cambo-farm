@@ -92,7 +92,7 @@
                 <div class="col-sm-4">
                     <div class="jumbotron">
                         <div class="container">
-                            <img src="../img/Pineapple.png" alt="" class="pig-img">
+                            <img src="../img/Pineapple.png" alt="" class="pineapple-img">
                             <h2 style="font-family: 'Chenla', cursive;">ដំណាំម្នាស់</h2>
                             <p style="font-family: 'Chenla', cursive;">តើលោកអ្នកចង់ដឹងពីវិធីសាស្រ្តដាំម្នាស់មែនទេ?
                             </p>
@@ -105,7 +105,7 @@
                 <div class="col-sm-4">
                     <div class="jumbotron">
                         <div class="container">
-                            <img src="../img/watermelon.png" alt="" class="chicken-img">
+                            <img src="../img/watermelon.png" alt="" class="watermillion-img">
                             <h2 style="font-family: 'Chenla', cursive;">ដំណាំឪឡឹក</h2>
                             <p style="font-family: 'Chenla', cursive;">តើលោកអ្នកចង់ដឹងពីវិធីសាស្រ្តដាំឪឡឹកមែនទេ?
                             </p>
@@ -118,7 +118,7 @@
                 <div class="col-sm-4">
                     <div class="jumbotron">
                         <div class="container">
-                            <img src="../img/corn.png" alt="" class="duck-img">
+                            <img src="../img/corn.png" alt="" class="corn-img">
                             <h2 style="font-family: 'Chenla', cursive;">ដំណាំពោត</h2>
                             <p style="font-family: 'Chenla', cursive;">តើលោកអ្នកចង់ដឹងពីវិធីសាស្រ្តដាំពោតមែនទេ?
                             </p>

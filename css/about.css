@@ -45,7 +45,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 	border-radius: 15px 0 0 15px;
 } */
 
-.content .img .social{
+.content .img .social1{
 	width: 10%;
 	height: 200px;
 	position: absolute;
@@ -98,7 +98,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 
 }
 /* social image */
-.content .social a img{
+.content .social1 a img{
 	width: 20px;
 	display: block;
 	float: right;
@@ -164,7 +164,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 
 }
 
-.content2 .img .social{
+.content2 .img .social1{
 	width: 10%;
 	height: 200px;
 	/* background-color: red; */
@@ -188,7 +188,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 	border-radius: 50%;
 }
 
-.content2 .social a img{
+.content2 .social1 a img{
 	width: 20px;
 	display: block;
 	float: right;
@@ -242,7 +242,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		height: 200px;;
 		border-radius: 50%;
 		}
-	.content .img .social{
+	.content .img .social1{
 		width: 10%;
 		height: 250px;
 		position: absolute;
@@ -254,7 +254,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		height: 200px;
 		border-radius: 50%;
 	}
-	.content2 .img .social{
+	.content2 .img .social1{
 		width: 10%;
 		height: 200px;
 		/* background-color: red; */
@@ -264,7 +264,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		
 	}
 	
-	.content2 .social a img{
+	.content2 .social1 a img{
 		width: 20px;
 		display: block;
 		float: right;
@@ -318,7 +318,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		height: 160px;;
 		border-radius: 50%;
 		}
-	.content .img .social{
+	.content .img .social1{
 		width: 10%;
 		height: 250px;
 		position: absolute;
@@ -331,7 +331,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		border-radius: 50%;
 	}
 	
-	.content2 .social a img{
+	.content2 .social1 a img{
 		width: 20px;
 		display: block;
 		float: right;
@@ -384,7 +384,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		height: 160px !important;
 		border-radius: 50%;
 		}
-	.content .img .social{
+	.content .img .social1{
 		width:10%;
 		height: 200px;
 		position: absolute;
@@ -397,7 +397,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		border-radius: 50%;
 	}
 	
-	.content2 .img .social{
+	.content2 .img .social1{
 		width: 10%;
 		height: 200px;
 		/* background-color: red; */
@@ -406,7 +406,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		left: 75%;
 		
 	}
-	.content2 .social a img{
+	.content2 .social1 a img{
 		width: 20px;
 		display: block;
 		float: right;
@@ -459,7 +459,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		height: 160px;
 		border-radius: 50%;
 	}
-	.content .img .social{
+	.content .img .social1{
 		width: 10%;
 		height: 200px;
 		/* background-color: red; */
@@ -468,7 +468,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		left: 20%;
 		
 	}
-	.content2 .img .social{
+	.content2 .img .social1{
 		width: 10%;
 		height: 200px;
 		/* background-color: red; */
@@ -484,7 +484,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		border-radius: 50%;
 	}
 	
-	.content2 .social a img{
+	.content2 .social1 a img{
 		width: 20px;
 		display: block;
 		float: right;
@@ -548,7 +548,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		height: 160px;
 		border-radius: 50%;
 	}
-	.content .img .social{
+	.content .img .social1{
 		width: 10%;
 		height: 250px;
 		position: absolute;
@@ -563,7 +563,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		border-radius: 50%;
 	}
 	
-	.content2 .img .social{
+	.content2 .img .social1{
 		width: 10%;
 		height: 200px;
 		/* background-color: red; */
@@ -572,7 +572,7 @@ box-shadow: 0px 0px 10px 0px rgba(117,255,172,1);
 		left: 80%;
 		
 	}
-	.content2 .social a img{
+	.content2 .social1 a img{
 		width: 20px;
 		display: block;
 		margin: 10px;

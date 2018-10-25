@@ -25,7 +25,6 @@
             include('../php/menu2.php');
     ?>
 
-    
     <div class="slide" style="margin-top: 70px;">
         <div class="container">
 

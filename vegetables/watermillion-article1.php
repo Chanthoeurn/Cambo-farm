@@ -10,10 +10,10 @@
     <!-- <link rel="stylesheet" href="../css/menuStyle.css"> -->
     <link rel="stylesheet" href="../css/footerstyle.css">
     <?php
-        include('../php/headerlink.php');
+        include('../php/headerMenuLink.php');
     ?>
     <?php
-        include('../php/headerMenuLink.php');
+        include('../php/headerlink.php');
     ?>
      <!-- Link Menu Script-->
      <script src="../js/menu.js"></script>
@@ -98,7 +98,7 @@
             <a href="#">3</a>
             <a href="#">4</a>
             <a href="#">5</a>
-            <a href="#">&raquo;</a>
+            <a href="../vegetables/watermillion-article2.php">&raquo;</a>
         </div>
     </div>
     <br>

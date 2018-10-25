@@ -10,10 +10,10 @@
     <!-- <link rel="stylesheet" href="../css/menuStyle.css"> -->
     <link rel="stylesheet" href="../css/footerstyle.css">
     <?php
-        include('../php/headerlink.php');
+        include('../php/headerMenuLink.php');
     ?>
     <?php
-        include('../php/headerMenuLink.php');
+        include('../php/headerlink.php');
     ?>
      <!-- Link Menu Script-->
      <script src="../js/menu.js"></script>
@@ -60,7 +60,7 @@
     </div>
     <div class="page">
         <div class="pagination">
-            <a href="#">&laquo;</a>
+            <a href="../vegetables/watermillion-article1.php">&laquo;</a>
             <a href="../vegetables/watermillion-article1.php"  >1</a>
             <a href="../vegetables/watermillion-article2.php" class="active">2</a>
             <a href="#">3</a>

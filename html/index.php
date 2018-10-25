@@ -9,6 +9,7 @@
 
     <link rel="stylesheet" href="../css/styleHomepage1.css">
     <link rel="stylesheet" href="../css/menuStyle2.css">
+    <link rel="stylesheet" href="../css/footerstyle.css">
     <?php
         include('../php/headerMenuLink.php');
     ?>
@@ -197,7 +198,7 @@
 
             <div class="clear"></div>
         </div>
-        <footer class="myfooter">
+        <!-- <footer class="myfooter"> -->
                 <div class="container">
                     <div class="col-sm-4">
 
@@ -239,8 +240,12 @@
                     </div>
                 </div>
             </footer>
+   
+   
     </div>
-
+    <?php
+            include('../php/footer.php');
+    ?>
     <script>
 
         //Veg Click

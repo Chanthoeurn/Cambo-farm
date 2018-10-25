@@ -9,10 +9,10 @@
     <link rel="stylesheet" href="../css/about.css">
     <link rel="stylesheet" href="../css/footerstyle.css">
     <?php
-        include('../php/headerlink.php');
+        include('../php/headerMenuLink.php');
     ?>
     <?php
-        include('../php/headerMenuLink.php');
+        include('../php/headerlink.php');
     ?>
      <!-- Link Menu Script-->
      <script src="../js/menu.js"></script>
@@ -63,7 +63,7 @@
         
         <div class="content" > 
             <div class="img">
-                <div class="social">
+                <div class="social1">
                     <a href="https://www.facebook.com/chanthoeurnfallingheart">
                         <img src="../img/facebook.png" alt="" href="">
                     </a>
@@ -76,7 +76,7 @@
 
                 </div>
                 <div class="image">
-                    <img src="../img/me.jpg" alt="">
+                    <img src="../img/profile/me.jpg" alt="">
                 </div>
 
             </div>
@@ -104,7 +104,7 @@
                 <div class="image">
                     <img src="../img/profile/saren.jpg" alt="">
                 </div>
-                <div class="social">
+                <div class="social1">
                     <a  href="https://www.facebook.com/karat.pachara">
                         <img src="../img/facebook.png" alt=""​​​​​>
                     </a>
@@ -121,7 +121,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <div class="social">
+                <div class="social1">
                     <a href="https://www.facebook.com/Sreyleu010">
                         <img src="../img/facebook.png" alt="">
                     </a>
@@ -150,12 +150,12 @@
         </div>
         <div class="content2">
             <div class="article" style="color: black;">
-                <h5>ឈីម ចាន់ធឿន</h5>
+                <h5>សៃញ៉ាឡឺត​​ ម៉េត</h5>
                 <p>Tel: 086329221</p>
-                <p>Facebook: Chanthoeurn Chhim</p>
+                <p>Facebook: Med Saignaleuth</p>
 
-                <p>Email: Chanthoeurnchhim168@gmail.com</p>
-                <p>Adress: Kampong Speu Province</p>
+                <p>Email: Saignaleuth.med@gmail.com</p>
+                <p>Adress: Lao </p>
 
             </div>
             <div class="img">
@@ -163,7 +163,7 @@
                 <div class="image">
                     <img src="../img/profile/Med.jpg" alt="">
                 </div>
-                <div class="social">
+                <div class="social1">
                     <a href="https://www.facebook.com/profile.php?id=100008402837765">
                         <img src="../img/facebook.png" alt="">
                     </a>
@@ -180,7 +180,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <div class="social">
+                <div class="social1">
                     <a href="https://www.facebook.com/keoudone.vilaithong">
                         <img src="../img/facebook.png" alt="">
                     </a>
@@ -198,12 +198,12 @@
 
             </div>
             <div class="article" style="color: black;">
-                <h5>ឈីម ចាន់ធឿន</h5>
+                <h5>វីឡៃថុង កែវឧុដន</h5>
                 <p>Tel: 086329221</p>
-                <p>Facebook: Chanthoeurn Chhim</p>
+                <p>Facebook: Keooudone Vilaithong</p>
 
-                <p>Email: Chanthoeurnchhim168@gmail.com</p>
-                <p>Adress: Kampong Speu Province</p>
+                <p>Email: keoudone.vilaithong@gmail.com</p>
+                <p>Adress: Lao</p>
 
             </div>
         </div>
