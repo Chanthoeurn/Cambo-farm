@@ -61,16 +61,16 @@
             </h5>
         </div>
         
-        <div class="content" >
+        <div class="content" > 
             <div class="img">
                 <div class="social">
-                    <a href="#">
-                        <img src="../img/facebook.png" alt="">
+                    <a href="https://www.facebook.com/chanthoeurnfallingheart">
+                        <img src="../img/facebook.png" alt="" href="">
                     </a>
-                    <a href="#">
-                        <img src="../img/instagram.png" alt="">
+                    <a href="https://www.instagram.com/chanthoeurnchhim">
+                        <img src="../img/instagram.png" alt="" >
                     </a>
-                    <a href="#">
+                    <a href="https://www.youtube.com/channel/UC4hxX_SFiQjXVvXElRRbgNw">
                         <img src="../img/youtube.png" alt="">
                     </a>
 
@@ -91,27 +91,27 @@
         </div>
         <div class="content2">
             <div class="article" style="color: black;">
-                <h5>ឈីម ចាន់ធឿន</h5>
+                <h5>អ៊ុំ សារ៉ែន</h5>
                 <p>Tel: 086329221</p>
-                <p>Facebook: Chanthoeurn Chhim</p>
+                <p>Facebook: Saren Um</p>
 
-                <p>Email: Chanthoeurnchhim168@gmail.com</p>
-                <p>Adress: Kampong Speu Province</p>
+                <p>Email: sarenum@gmail.com</p>
+                <p>Adress: Kandal Province</p>
 
             </div>
             <div class="img">
 
                 <div class="image">
-                    <img src="../img/saren.jpg" alt="">
+                    <img src="../img/profile/saren.jpg" alt="">
                 </div>
                 <div class="social">
-                    <a href="#">
-                        <img src="../img/facebook.png" alt="">
+                    <a  href="https://www.facebook.com/karat.pachara">
+                        <img src="../img/facebook.png" alt=""​​​​​>
                     </a>
-                    <a href="#">
+                    <a href="https://www.facebook.com/karat.pachara">
                         <img src="../img/instagram.png" alt="">
                     </a>
-                    <a href="#">
+                    <a href="https://www.youtube.com/channel/UC4hxX_SFiQjXVvXElRRbgNw">
                         <img src="../img/youtube.png" alt="">
                     </a>
 
@@ -122,29 +122,29 @@
         <div class="content">
             <div class="img">
                 <div class="social">
-                    <a href="#">
+                    <a href="https://www.facebook.com/Sreyleu010">
                         <img src="../img/facebook.png" alt="">
                     </a>
                     <a href="#">
                         <img src="../img/instagram.png" alt="">
                     </a>
-                    <a href="#">
-                        <img src="../img/youtube.png" alt="">
+                    <a href="https://www.youtube.com/channel/UC4hxX_SFiQjXVvXElRRbgNw">
+                        <img src="../img/youtube.png" alt="" >
                     </a>
 
                 </div>
                 <div class="image">
-                    <img src="../img/me.jpg" alt="">
+                    <img src="../img/profile/Sophealeu.jpg" alt="">
                 </div>
 
             </div>
             <div class="article" style="color: black;">
-                <h5>ឈីម ចាន់ធឿន</h5>
+                <h5>រី​ សុភាលឺ</h5>
                 <p>Tel: 086329221</p>
-                <p>Facebook: Chanthoeurn Chhim</p>
+                <p>Facebook: Ry Sophealeu</p>
 
-                <p>Email: Chanthoeurnchhim168@gmail.com</p>
-                <p>Adress: Kampong Speu Province</p>
+                <p>Email: sophealeu.ry@gmail.com</p>
+                <p>Adress: Kampong Cham Province</p>
 
             </div>
         </div>
@@ -161,17 +161,17 @@
             <div class="img">
 
                 <div class="image">
-                    <img src="../img/saren.jpg" alt="">
+                    <img src="../img/profile/Med.jpg" alt="">
                 </div>
                 <div class="social">
-                    <a href="#">
+                    <a href="https://www.facebook.com/profile.php?id=100008402837765">
                         <img src="../img/facebook.png" alt="">
                     </a>
-                    <a href="#">
+                    <a href="https://www.facebook.com/profile.php?id=100008402837765">
                         <img src="../img/instagram.png" alt="">
                     </a>
-                    <a href="#">
-                        <img src="../img/youtube.png" alt="">
+                    <a href="https://www.youtube.com/channel/UC4hxX_SFiQjXVvXElRRbgNw">
+                        <img src="../img/youtube.png" alt="" >
                     </a>
 
                 </div>
@@ -181,19 +181,19 @@
         <div class="content">
             <div class="img">
                 <div class="social">
-                    <a href="#">
+                    <a href="https://www.facebook.com/keoudone.vilaithong">
                         <img src="../img/facebook.png" alt="">
                     </a>
-                    <a href="#">
+                    <a href="https://www.facebook.com/keoudone.vilaithong">
                         <img src="../img/instagram.png" alt="">
                     </a>
-                    <a href="#">
-                        <img src="../img/youtube.png" alt="">
+                    <a href="https://www.youtube.com/channel/UC4hxX_SFiQjXVvXElRRbgNw">
+                        <img src="../img/youtube.png" alt="" >
                     </a>
 
                 </div>
                 <div class="image">
-                    <img src="../img/me.jpg" alt="">
+                    <img src="../img/profile/Doon.jpg" alt="">
                 </div>
 
             </div>

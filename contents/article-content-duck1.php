@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="../../css/myStyle.css">
+    <link rel="stylesheet" href="../css/myStyle.css">
     <!-- khmer font -->
     <link href='https://fonts.googleapis.com/css?family=Khmer' rel='stylesheet'>
     <!-- slide link -->
@@ -19,13 +19,13 @@
     <!-- link fonts -->
     <link href="https://fonts.googleapis.com/css?family=Hanuman|Khmer" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Angkor" rel="stylesheet">
-    <link rel="stylesheet" href="../../css/menuStyle2.css">
-    <link rel="stylesheet" href="../../css/footerstyle.css">
+    <link rel="stylesheet" href="../css/menuStyle2.css">
+    <link rel="stylesheet" href="../css/footerstyle.css">
 </head>
 
 <body>
 <?php
-            include('../../php/menu2.php');
+            include('../php/menu2.php');
     ?>
 
     <div class="container" style="margin-top:70px;">
@@ -75,21 +75,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/duck/duckegg1.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/duck/duckegg1.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/duck/duckegg2.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/duck/duckegg2.jpg" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/duck/duckegg3.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/duck/duckegg3.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
@@ -128,14 +128,14 @@
 
 
                 </div>
-                <img class="img-only" src="../../img/duck/duckegg3.jpg" alt="">
+                <img class="img-only" src="../img/duck/duckegg3.jpg" alt="">
                 <div class="content-text">
                     <h3>ការភ្ញាស់តាមលក្ខណៈសិប្បនិម្មិតៈ </h3>
                     <p>ការភ្ញាស់តាមលក្ខណៈសិប្បនិម្មិតគឺការភ្ញាស់ដោយប្រើទូភ្ញាស់ដែលប្រើ កម្ដៅពីប្រភពផ្សេងៗដូចជា ចរន្តអគ្គិសនី
                         ឬកម្តៅព្រះអាទិត្យដោយរក្សាកម្តៅថេរ ៣៧,៥ អង្សាសេទៅ ៣៨ អង្សាសេ ។ វិធីនេះគេប្រើប្រាស់ក្នុងការចិញ្ចឹមបែបឧស្សាហកម្ម។
                         ការចិញ្ចឹមតាមគ្រួសារដែលមានចំនួនច្រើនខ្លះ ក៏ភ្ញាស់ដោយប្រើវិធីនេះ ដែរ។ </p>
                 </div>
-                <img class="img-only" src="../../img/duck/duckegg6.jpg" alt="">
+                <img class="img-only" src="../img/duck/duckegg6.jpg" alt="">
                 <div class="content-text">
                     <p>សូមទស្សនាវីដេអូពាក់ព័ន្ធខាងក្រោមនេះ </p>
                 </div>
@@ -167,7 +167,7 @@
                 <div class="sub1">
                     <a href="article-content-duck.php">
                         <div class="sub1-img">
-                            <img src="../../img//duck/duck2.jpg">
+                            <img src="../img//duck/duck2.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>ប្រភេទទា និង ការជ្រើសរើសពូជទាសម្រាប់ចិញ្ចឹមព្រមទាំងអត្ថប្រយោជន៍ . . .</p>
@@ -177,7 +177,7 @@
                 <div class="sub1">
                     <a href="article-content-duck2.php">
                         <div class="sub1-img">
-                            <img src="../../img//duck/duckpen1.jpg">
+                            <img src="../img//duck/duckpen1.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>ការសាងសងទ្រុងសម្រាប់ទាដែលសមស្របបំផុត និង ការផ្តល់ចំណីអាហារសម្រាប់ទា . . .</p>
@@ -188,7 +188,7 @@
                 <div class="sub1">
                     <a href="article-content-duck3.php">
                         <div class="sub1-img">
-                            <img src="../../img/duck/duck6.jpg">
+                            <img src="../img/duck/duck6.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>របៀបចិញ្ចឹមសត្វទា និង ការចែទាំសុខភាពទា . . .</p>
@@ -199,7 +199,7 @@
                 <div class="sub1">
                     <a href="article-content-duck4.php">
                         <div class="sub1-img">
-                            <img src="../../img/duck/duck7.png">
+                            <img src="../img/duck/duck7.png">
                         </div>
                         <div class="sub1-title">
                             <p>ជម្ងឺដែលអាចកើតមានលើសត្វទា និង វីធីក្នុងការព្យាបាលដោយមានប្រសិទ្ធិភាព . . .</p>
@@ -214,7 +214,7 @@
 
     </div>
     <?php
-            include('../../php/footer.php');
+            include('../php/footer.php');
     ?>
 </body>
 

@@ -50,7 +50,7 @@
                 <h5>ការជ្រើសរើសពូជជ្រូក</h5>
                 <p>ជាទូទៅ ពូជជ្រូកសំរាប់ផលិតកម្មជ្រូកបែបឧស្សាហកម្មភាគច្រើន គឺ ឡាចវ៉ាយ (Large white) ឡែនដ្រាស់ (Landrace) និងពូជជ្រូកឌុយរុំក (Duroc) ឬពូជកូនកាត់ ។ ពូជទាំង ៣ ប្រភេទនេះ ផលិតសាច់ក្រហម...</p>
                  <p class="times"> &#128336; ២​​ នាទីមុន</p>
-                <a href="../contents/pig/article-content1.php">ចុចអានបន្ត...</a>
+                <a href="../contents/article-content1.php">ចុចអានបន្ត...</a>
             </div>
         </div>
         <div style="height:400px">

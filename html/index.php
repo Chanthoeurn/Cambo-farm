@@ -19,6 +19,27 @@
         a{
             color:white;
         }
+        .carousel-caption h1{
+            font-size:16px;
+            font-family: 'Chenla';
+        }
+        a{
+            font-size:16px;
+            font-family: 'Chenla';
+        }
+
+        .carousel-caption .btn {
+            background-color:white;
+            border: 1px solid #5CC703;
+            font-family: 'Chenla', cursive;
+            color:black;
+            font-size:14px;
+        }
+        .carousel-caption .btn:hover{
+            background-color:green;
+            border: 1px solid green;
+            color: white;
+        }
     </style>
 </head>
 

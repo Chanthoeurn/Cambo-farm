@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="../../css/myStyle.css">
+    <link rel="stylesheet" href="../css/myStyle.css">
     <!-- khmer font -->
     <link href='https://fonts.googleapis.com/css?family=Khmer' rel='stylesheet'>
     <!-- slide link -->
@@ -20,13 +20,13 @@
     <link href="https://fonts.googleapis.com/css?family=Hanuman|Khmer" rel="stylesheet">
     
     <link href="https://fonts.googleapis.com/css?family=Angkor" rel="stylesheet">
-    <link rel="stylesheet" href="../../css/menuStyle2.css">
-    <link rel="stylesheet" href="../../css/footerstyle.css">
+    <link rel="stylesheet" href="../css/menuStyle2.css">
+    <link rel="stylesheet" href="../css/footerstyle.css">
 </head>
 
 <body>
     <?php
-            include('../../php/menu2.php');
+            include('../php/menu2.php');
     ?>
 
     <div class="container" style="margin-top:70px;"> 
@@ -58,21 +58,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/passion/passion1.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/passion/passion1.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/passion/passion2.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/passion/passion2.jpg" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/passion/passion3.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/passion/passion3.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
@@ -115,21 +115,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/watermillion/wmelon1.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/watermillion/wmelon1.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/watermillion/wmelon4.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/watermillion/wmelon4.jpg" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/watermillion/wmelon3.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/watermillion/wmelon3.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
@@ -204,7 +204,7 @@
                 <div class="sub1">
                     <a href="corn-benefits.php">
                         <div class="sub1-img">
-                            <img src="../../img/corn/bencorn1.jpg">
+                            <img src="../img/corn/bencorn1.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>អត្ថប្រយោជន៏នៃការទទួលទានផ្លែពោត</p>
@@ -214,7 +214,7 @@
                 <div class="sub1">
                     <a href="pineapple-benefits.php">
                         <div class="sub1-img">
-                            <img src="../../img/pineapple/papple8.jpg">
+                            <img src="../img/pineapple/papple8.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>អត្ថប្រយោជន៏នៃការទទួលទានផ្លែម្នាស់</p>
@@ -224,7 +224,7 @@
                 <div class="sub1">
                     <a href="watermelon-benefits.php">
                         <div class="sub1-img">
-                            <img src="../../img/watermillion/wmelon14.jpg">
+                            <img src="../img/watermillion/wmelon14.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>អត្ថប្រយោជន៏នៃការទទួលទានផ្លែឪឡឹក</p>
@@ -236,7 +236,7 @@
 
     </div>
     <?php
-            include('../../php/footer.php');
+            include('../php/footer.php');
     ?>
 
 </body>

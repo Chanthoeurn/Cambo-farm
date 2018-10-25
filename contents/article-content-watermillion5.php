@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="../../css/myStyle.css">
+    <link rel="stylesheet" href="../css/myStyle.css">
     <!-- khmer font -->
     <link href='https://fonts.googleapis.com/css?family=Khmer' rel='stylesheet'>
     <!-- slide link -->
@@ -19,13 +19,13 @@
     <!-- link fonts -->
     <link href="https://fonts.googleapis.com/css?family=Hanuman|Khmer" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Angkor" rel="stylesheet">
-    <link rel="stylesheet" href="../../css/menuStyle2.css">
-    <link rel="stylesheet" href="../../css/footerstyle.css">
+    <link rel="stylesheet" href="../css/menuStyle2.css">
+    <link rel="stylesheet" href="../css/footerstyle.css">
 </head>
 
 <body>
 <?php
-            include('../../php/menu2.php');
+            include('../php/menu2.php');
     ?>
     <div class="container"  style="margin-top:70px;">
 
@@ -62,15 +62,15 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/watermillion/wmelon9.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/watermillion/wmelon9.jpg" alt="Los Angeles" style="width:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="../../img/watermillion/wmelon7.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/watermillion/wmelon7.jpg" alt="Chicago" style="width:100%;">
                             </div>
 
                             <div class="item">
-                                <img src="../../img/watermillion/wmelon5.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/watermillion/wmelon5.jpg" alt="New York" style="width:100%;">
                             </div>
 
                         </div>
@@ -117,7 +117,7 @@
                 <div class="sub1">
                     <a href="article-content-watermillion1.php">
                         <div class="sub1-img">
-                            <img src="../../img/watermillion/wmelon1.jpg">
+                            <img src="../img/watermillion/wmelon1.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>ការជ្រើសពូជឪឡឹក និង ការរៀបចំដីសម្រាប់ដាំ</p>
@@ -127,7 +127,7 @@
                 <div class="sub1">
                     <a href="article-content-watermillion2.php">
                         <div class="sub1-img">
-                            <img src="../../img/watermillion/wmelon2.jpg">
+                            <img src="../img/watermillion/wmelon2.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>របៀបដាំឪឡឹកតាមបច្ចេកទេសត្រឺមត្រូវ និង ការដាក់ជីបំប៉នដើម្បីឆាប់ធំធាត់</p>
@@ -137,7 +137,7 @@
                 <div class="sub1">
                     <a href="article-content-watermillion3.php">
                         <div class="sub1-img">
-                            <img src="../../img/watermillion/wmeloninsect5.jpg">
+                            <img src="../img/watermillion/wmeloninsect5.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>អំពីជំងឺដែលអាចកើតមានលើដំណាំឪឡឹក និង វិធានក្នុងការការពារ</p>
@@ -147,7 +147,7 @@
                 <div class="sub1">
                     <a href="article-content-watermillion4.php">
                         <div class="sub1-img">
-                            <img src="../../img/watermillion/wmeloninsect1.jpg">
+                            <img src="../img/watermillion/wmeloninsect1.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>សត្វល្អិតដែលមាននៅលើឪឡឹក និង វីធីកម្ចាត់ចោលកុំអោយកើតមានបន្តទៀត
@@ -160,7 +160,7 @@
 
     </div>
     <?php
-            include('../../php/footer.php');
+            include('../php/footer.php');
     ?>
 
 </body>

@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="../../css/myStyle.css">
+    <link rel="stylesheet" href="../css/myStyle.css">
     <!-- khmer font -->
     <link href='https://fonts.googleapis.com/css?family=Khmer' rel='stylesheet'>
     <!-- slide link -->
@@ -19,13 +19,13 @@
     <!-- link fonts -->
     <link href="https://fonts.googleapis.com/css?family=Hanuman|Khmer" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Angkor" rel="stylesheet">
-    <link rel="stylesheet" href="../../css/menuStyle2.css">
-    <link rel="stylesheet" href="../../css/footerstyle.css">
+    <link rel="stylesheet" href="../css/menuStyle2.css">
+    <link rel="stylesheet" href="../css/footerstyle.css">
 </head>
 
 <body>
         <?php
-        include('../../php/menu2.php');
+        include('../php/menu2.php');
 ?>
     <div class="container" style="margin-top:70px;">
 
@@ -61,21 +61,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/pig/largewhite.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/pig/largewhite.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3>ឡាចវ៉ាយ</h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/pig/feeing.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/pig/feeing.jpg" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3>ឡែនដ្រាស់</h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/pig/pietrain.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/pig/pietrain.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3>ភីតទ្រាន</h3>
                                 </div>
@@ -158,21 +158,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/pig/largewhite.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/pig/largewhite.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3>ឡាចវ៉ាយ</h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/pig/belkshire.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/pig/belkshire.jpg" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3>ប៊ែកសៀ</h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/pig/pietrain.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/pig/pietrain.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3>ភីតទ្រាន</h3>
                                 </div>
@@ -264,7 +264,7 @@
                 <div class="sub1">
                     <a href="article-content-pigpen3.php">
                         <div class="sub1-img">
-                            <img src="../../img/pig/pigpen1.jpg">
+                            <img src="../img/pig/pigpen1.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>របៀបចិញ្ចឹមជ្រូកយកសាច់តាមបែកបច្ចេកទេសទំនើបនិងទទួលបានទិន្នផលខ្ពស់ក្នុងរយៈពេលខ្លីដែលនឹកស្មានមិនដល់(ការសាងសង់ទ្រង់)</p>
@@ -274,7 +274,7 @@
                 <div class="sub1">
                     <a href="article-content-feeding4.php">
                         <div class="sub1-img">
-                            <img src="../../img/pig/feeing.jpg">
+                            <img src="../img/pig/feeing.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>របៀបចិញ្ចឹមជ្រូកតាមបែកបច្ចេកទេសទំនើបនិងទទួលបានទិន្នផលខ្ពស់ក្នុងរយៈពេលខ្លីដែលនឹកស្មានមិនដល់(ការផ្តល់ចំណីនិងទឹក)</p>
@@ -284,7 +284,7 @@
                 <div class="sub1">
                     <a href="article-content-crossbreed5.php">
                         <div class="sub1-img">
-                            <img src="../../img/pig/breeding1.jpg">
+                            <img src="../img/pig/breeding1.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>របៀបចិញ្ចឹមជ្រូកតាមបែកបច្ចេកទេសទំនើបនិងទទួលបានទិន្នផលខ្ពស់ក្នុងរយៈពេលខ្លីដែលនឹកស្មានមិនដល់(ការបង្កាត់ពូជ)</p>
@@ -294,7 +294,7 @@
                 <div class="sub1">
                     <a href="article-content-pregnantpig2.php">
                         <div class="sub1-img">
-                            <img src="../../img/pig/pregnantpig.jpg">
+                            <img src="../img/pig/pregnantpig.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>របៀបចិញ្ចឹមជ្រូកតាមបែកបច្ចេកទេសទំនើបនិងទទួលបានទិន្នផលខ្ពស់ក្នុងរយៈពេលខ្លីដែលនឹកស្មានមិនដល់(ជ្រូកមេផើម)</p>
@@ -306,7 +306,7 @@
 
     </div>
     <?php
-    include('../../php/footer.php');
+    include('../php/footer.php');
 ?>
 
 </body>

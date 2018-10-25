@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="../../css/myStyle.css">
+    <link rel="stylesheet" href="../css/myStyle.css">
     <!-- khmer font -->
     <link href='https://fonts.googleapis.com/css?family=Khmer' rel='stylesheet'>
     <!-- slide link -->
@@ -20,13 +20,13 @@
     <link href="https://fonts.googleapis.com/css?family=Hanuman|Khmer" rel="stylesheet">
     
     <link href="https://fonts.googleapis.com/css?family=Angkor" rel="stylesheet">
-    <link rel="stylesheet" href="../../css/menuStyle2.css">
-    <link rel="stylesheet" href="../../css/footerstyle.css">
+    <link rel="stylesheet" href="../css/menuStyle2.css">
+    <link rel="stylesheet" href="../css/footerstyle.css">
 </head>
 
 <body>
     <?php
-            include('../../php/menu2.php');
+            include('../php/menu2.php');
     ?>
 
     <div class="container" style="margin-top:70px;"> 
@@ -75,21 +75,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/chicken/chick6.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/chicken/chick6.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/chicken/chicks7.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/chicken/chicks7.jpg" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/chicken/chicks10.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/chicken/chicks10.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
@@ -143,21 +143,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/chicken/chickfood1.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/chicken/chickfood1.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/chicken/chickfood2.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/chicken/chickfood2.jpg" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/chicken/chicks11.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/chicken/chicks11.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
@@ -209,21 +209,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/chicken/chick.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/chicken/chick.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/chicken/chick4.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/chicken/chick4.jpg" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/chicken/chick5.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/chicken/chick5.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
@@ -273,7 +273,7 @@
                 <div class="sub1">
                     <a href="#C1">
                         <div class="sub1-img">
-                            <img src="../../img/chicken/chicks10.jpg">
+                            <img src="../img/chicken/chicks10.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>ការថែរក្សាកូនមាន់ទើបញាស់(ចុចអានបន្ត)...........</p>
@@ -283,7 +283,7 @@
                 <div class="sub1">
                     <a href="#C2">
                         <div class="sub1-img">
-                            <img src="../../img/chicken/chickfood1.jpg">
+                            <img src="../img/chicken/chickfood1.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>ចំណីអាហារសម្រាប់មាន់(ចុចអានបន្ត)...........</p>
@@ -293,7 +293,7 @@
                 <div class="sub1">
                     <a href="#C3">
                         <div class="sub1-img">
-                            <img src="../../img/chicken/chick.jpg">
+                            <img src="../img/chicken/chick.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>បច្ចេកទេសថែរក្សាេសត្វមាន់យកសាច់លក់ (ចុចអានបន្ត)...........</p>
@@ -307,7 +307,7 @@
 
     </div>
     <?php
-            include('../../php/footer.php');
+            include('../php/footer.php');
     ?>
 
 </body>

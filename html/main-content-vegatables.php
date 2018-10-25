@@ -13,6 +13,7 @@
     <?php
         include('../php/headerlink.php');
     ?>
+    <link rel="stylesheet" href="../css/slide_show.css">
      <link rel="stylesheet" href="../css/main-contentStyle.css">
     <link rel="stylesheet" href="../css/footerstyle.css">
     <!-- Latest compiled and minified CSS & JS -->

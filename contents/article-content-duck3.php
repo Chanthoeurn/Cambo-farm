@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
-    <link rel="stylesheet" href="../../css/myStyle.css">
+    <link rel="stylesheet" href="../css/myStyle.css">
     <!-- khmer font -->
     <link href='https://fonts.googleapis.com/css?family=Khmer' rel='stylesheet'>
     <!-- slide link -->
@@ -19,13 +19,13 @@
     <!-- link fonts -->
     <link href="https://fonts.googleapis.com/css?family=Hanuman|Khmer" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Angkor" rel="stylesheet">
-    <link rel="stylesheet" href="../../css/menuStyle2.css">
-    <link rel="stylesheet" href="../../css/footerstyle.css">
+    <link rel="stylesheet" href="../css/menuStyle2.css">
+    <link rel="stylesheet" href="../css/footerstyle.css">
 </head>
 
 <body>
 <?php
-            include('../../php/menu2.php');
+            include('../php/menu2.php');
     ?>
 
     <div class="container" style="margin-top:70px;">
@@ -117,21 +117,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/duck/duck9.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/duck/duck9.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/duck/duck8.png" alt="Chicago" style="width:100%;">
+                                <img src="../img/duck/duck8.png" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/duck/duck7.png" alt="New York" style="width:100%;">
+                                <img src="../img/duck/duck7.png" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
@@ -185,21 +185,21 @@
                         <div class="carousel-inner">
 
                             <div class="item active">
-                                <img src="../../img/duck/duck6.jpg" alt="Los Angeles" style="width:100%;">
+                                <img src="../img/duck/duck6.jpg" alt="Los Angeles" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/duck/duck4.jpg" alt="Chicago" style="width:100%;">
+                                <img src="../img/duck/duck4.jpg" alt="Chicago" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
                             </div>
 
                             <div class="item">
-                                <img src="../../img/duck/duck2.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/duck/duck2.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>
@@ -249,7 +249,7 @@
                 <div class="sub1">
                     <a href="article-content-duck.php">
                         <div class="sub1-img">
-                            <img src="../../img/duck/duck1.jpg">
+                            <img src="../img/duck/duck1.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>របៀបភ្ញាស់ពងទាដ៏មានប្រសិទ្ធិភាពខ្ពស់ . . .</p>
@@ -259,7 +259,7 @@
                 <div class="sub1">
                     <a href="article-content-duck2.php">
                         <div class="sub1-img">
-                            <img src="../../img/duck/duckpen1.jpg">
+                            <img src="../img/duck/duckpen1.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>ការសាងសងទ្រុងសម្រាប់ទាដែលសមស្របបំផុត និង ការផ្តល់ចំណីអាហារសម្រាប់ទា . . .</p>
@@ -270,7 +270,7 @@
                 <div class="sub1">
                     <a href="article-content-duck.php">
                         <div class="sub1-img">
-                            <img src="../../img/duck/duck4.jpg">
+                            <img src="../img/duck/duck4.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>ប្រភេទទា និង ការជ្រើសរើសពូជទាសម្រាប់ចិញ្ចឹមព្រមទាំងអត្ថប្រយោជន៍ . . .</p>
@@ -281,7 +281,7 @@
                 <div class="sub1">
                     <a href="article-content-duck4.php">
                         <div class="sub1-img">
-                            <img src="../../img/duck/duck9.jpg">
+                            <img src="../img/duck/duck9.jpg">
                         </div>
                         <div class="sub1-title">
                             <p>ជម្ងឺដែលអាចកើតមានលើសត្វទា និង វីធីក្នុងការព្យាបាលដោយមានប្រសិទ្ធិភាព . . .</p>
@@ -296,7 +296,7 @@
 
     </div>
     <?php
-            include('../../php/footer.php');
+            include('../php/footer.php');
     ?>
 </body>
 
