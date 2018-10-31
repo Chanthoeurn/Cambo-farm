@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ម្នាស់</title>
+    <title>អត្ថប្រយោជន៏នៃម្នាស់</title>
     <link rel="stylesheet" href="../css/articleStyle.css">
     <!-- <link rel="stylesheet" href="../css/menuStyle.css"> -->
     <link rel="stylesheet" href="../css/footerstyle.css">

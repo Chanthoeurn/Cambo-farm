@@ -1,0 +1,7 @@
+.texter
+{
+    text-overflow: ellipsis;
+    width: 90%;
+    height: 5em;
+    white-space: nowrap;
+}

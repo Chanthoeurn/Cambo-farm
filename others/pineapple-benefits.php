@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Document</title>
+    <title>អត្ថប្រយោជន៏នៃការទទួលទានផ្លែម្នាស់</title>
     <link rel="stylesheet" href="../css/myStyle.css">
     <!-- khmer font -->
     <link href='https://fonts.googleapis.com/css?family=Khmer' rel='stylesheet'>
@@ -73,7 +73,7 @@
                             </div>
 
                             <div class="item">
-                                <img src="../img/pineapple/papple3.jpg" alt="New York" style="width:100%;">
+                                <img src="../img/pineapple/papple4.jpg" alt="New York" style="width:100%;">
                                 <div class="carousel-caption">
                                     <h3></h3>
                                 </div>

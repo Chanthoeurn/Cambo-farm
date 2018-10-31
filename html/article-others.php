@@ -5,8 +5,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>ម្នាស់</title>
+    <title>ផ្សេងៗ</title>
     <link rel="stylesheet" href="../css/articleStyle.css">
+    <link rel="stylesheet" href="../css/newstyle.css">
     <!-- <link rel="stylesheet" href="../css/menuStyle.css"> -->
     <link rel="stylesheet" href="../css/footerstyle.css">
     <?php
@@ -48,7 +49,7 @@
             </div>
             <div class="article">
                 <h5>អត្ថប្រយោជន៏នៃផ្លែរម្នាស់ចំពោះសុខភាពរបស់អ្នក</h5>
-                <p>ម្នាស់ជាដំណាំហូបផ្លែដែលប្រជាជនយើងមួយចំនួនអាចយកទៅបរិភោគបានច្រើនបែបច្រើនយ៉ាង . . .</p>
+                <p class="texter">ម្នាស់ជាដំណាំហូបផ្លែដែលប្រជាជនយើងមួយចំនួនអាចយកទៅបរិភោគបានច្រើនបែបច្រើនយ៉ាងម្នាស់ជាដំណាំហូបផ្លែដែលប្រជាជនយើងមួយចំនួនអាចយកទៅបរិភោគបានច្រើនបែបច្រើនយ៉ាងម្នាស់ជាដំណាំហូបផ្លែដែលប្រជាជនយើងមួយចំនួនអាចយកទៅបរិភោគបានច្រើនបែបច្រើនយ៉ាង . . .</p>
                 <p class="times"> &#128336; ២​​ នាទីមុន</p>
                 <a href="../others/pineapple-benefits.php">ចុចអានបន្ត...</a>
             </div>
@@ -59,7 +60,7 @@
             </div>
             <div class="article">
                 <h5>អត្ថប្រយោជន៏នៃផ្លែរពោតចំពោះសុខភាពរបស់អ្នក</h5>
-                <p>ពោតជាដំណាំហូបផ្លែដែលប្រជាជនយើងមួយចំនួនអាចយកទៅបរិភោគបានច្រើនបែបច្រើនយ៉ាង . . .</p>
+                <p class=" texter">ពោតជាដំណាំហូបផ្លែដែលប្រជាជនយើងមួយចំនួនអាចយកទៅបរិភោគបានច្រើនបែបច្រើនយ៉ាង . . .</p>
                 <p class="times"> &#128336; ២​​ នាទីមុន</p>
                 <a href="../others/corn-benefits.php">ចុចអានបន្ត...</a>
             </div>
@@ -109,8 +110,6 @@
     <?php
             include('../php/footer.php');
     ?>
-
-
 </body>
 
 </html>
