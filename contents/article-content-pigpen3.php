@@ -55,7 +55,7 @@
                         ទ្រុងសំរាប់មេកើតកូនត្រូវយកចិត្តទុកដាក់ ដើម្បីធានាថាមេជ្រូកងាយស្រួលបំបៅកូន និង កូនជ្រូកមានសុវត្ថិភាព
                         ពីព្រោះមេជ្រូកជាញឹកញាប់ដេកកិនកូន បន្ទាប់ពីកើតបាន ២-៣ ម៉ោង ក្រោយ ឬ ២-៣ ថ្ងៃក្រោយ ។ ខាងក្រោមនេះ៖ ជាទំហំទ្រុងទៅតាមប្រភេទជ្រូក
                     </p>
-                    <img src="../img/pigpens.png" style="margin: 0 auto; width:70%; height:70%;">
+                    <!-- <img src="../img/pigpens.png" style="margin: 0 auto; width:70%; height:70%;"> -->
                 </div>
                 <div class="slide">
                     <div id="myCarousel" class="carousel slide" data-ride="carousel">

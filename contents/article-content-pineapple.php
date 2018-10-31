@@ -220,15 +220,25 @@
                     <label for="" ​​​​​​ class="labelNews" style="font-family: 'Chenla', cursive">អត្ថបទទាក់ទង</label>
                 </div>
                 <div class="sub1">
-                    <a href="../watermillion/article-content-watermillion2.php">
+                    <a href="article-content-watermillion2.php">
                         <div class="sub1-img">
                             <img src="../img/watermillion/wmelon1.jpg">
                         </div>
                         <div class="sub1-title">
-                            <p>ការដាំឪឡឹកសម្រាប់ទទួលបានផលឆាប់រហ័ស</p>
+                            <p>ការដាំឪឡឹកដើម្បីទទួលបានទិន្នផលឆាប់រហ័ស</p>
                         </div>
                     </a>
                 </div>
+                <div class="sub1">
+                        <a href="article-content-corn.php">
+                            <div class="sub1-img">
+                                <img src="../img/corn/cornfield3.jpg">
+                            </div>
+                            <div class="sub1-title">
+                                <p>ការដាំពោតដើម្បីទទួលបានទិន្នផលឆាប់រហ័ស</p>
+                            </div>
+                        </a>
+                    </div>
             </div>
         </div>
 
