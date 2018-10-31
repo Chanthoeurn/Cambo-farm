@@ -87,6 +87,17 @@
             -moz-box-shadow: 0px 0px 5px 0px rgba(120,114,120,1);
             box-shadow: 0px 0px 5px 0px rgba(120,114,120,1);
         }
+        .article .sub-article .sub1:hover{
+            -webkit-box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.77);
+-moz-box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.77);
+box-shadow: 0px 5px 10px 0px rgba(0,0,0,0.77);
+            color: #5CC703;
+        }
+        /* .article .sub-article .sub1 p:hover{
+            color:red;
+            text-decoration: none;
+        } */
+
         .article .sub-article .sub1 {
             width: 90%;
             height: 170px;

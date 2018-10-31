@@ -85,7 +85,7 @@
                         <div class="container">
                             <div class="carousel-caption">
                                 <h1>អត្ថបទពាក់ព័ន្ធ</h1>
-                                    <a class="btn btn-lg btn-primary" href="main-content-other.php" role="button">អានបន្ត</a>
+                                    <a class="btn btn-lg btn-primary" href="article-others.php" role="button">អានបន្ត</a>
                                 </p>
                             </div>
                         </div>
