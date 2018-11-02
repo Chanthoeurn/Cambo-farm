@@ -41,7 +41,7 @@
             </h5>
         </div>
         <div class="title">
-            <h1 style="color:black; font-size: 20px ;font-family: 'Nokora', serif;padding: 20px">ដំណាំឪឡឹក</h1>
+            <h1 style="color:black; font-size: 20px ;font-family: 'Nokora', serif;padding: 20px">អត្ថបទផ្សេងៗ</h1>
         </div>
         <div class="content">
             <div class="img">

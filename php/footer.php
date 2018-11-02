@@ -5,9 +5,9 @@ clip-path: polygon(0 0%, 0% 100%, 100% 100%, 100% 20%, 0% 0);">
             <div class="col-sm-4" style="font-family: 'Chenla', cursive ; font-size: 14px;  color: white;">
                 <div class="social">
                     <p>តាមរយៈបណ្តាញសង្គម</p>
-                    <i class="fab fa-facebook-square"></i>
-                    <i class="fab fa-youtube-square"></i>
-                    <i class="fab fa-twitter-square"></i>
+                    <a href="https://www.facebook.com/កសិករ-Kaksekarcom-500533377096786"><i class="fab fa-facebook-square"​​​></i></a>
+                    <a href="https://www.youtube.com/channel/UC4hxX_SFiQjXVvXElRRbgNw"><i class="fab fa-youtube-square"></i></a>
+                    <a href="https://www.instagram.com/chanthoeurnchhim"><i class="fab fa-twitter-square"></i></a>
                 </div>
             </div>
             <div class="col-sm-4" style="font-family: 'Chenla', cursive ; color: white;">

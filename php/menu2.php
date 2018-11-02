@@ -10,7 +10,7 @@
                         </div>
 
                         <div class="logo">
-                              <img src="../img/Logo.jpg" alt="">
+                              <img src="../img/kasekar.png" alt="">
                         </div>
 
                         <div class="menu" >
