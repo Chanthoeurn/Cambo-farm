@@ -220,11 +220,7 @@
                     <label for="" ​​​​​​ class="labelNews" style="font-family: 'Chenla', cursive">អត្ថបទទាក់ទង</label>
                 </div>
                 <div class="sub1">
-<<<<<<< HEAD
-                    <a href="article-content-watermillion2.php">
-=======
                     <a href="../contents/article-content-watermillion2.php">
->>>>>>> 6e48435fac323707ba79f6bb4e97ac8121d1639a
                         <div class="sub1-img">
                             <img src="../img/watermillion/wmelon1.jpg">
                         </div>
