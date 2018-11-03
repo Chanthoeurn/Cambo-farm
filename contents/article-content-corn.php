@@ -35,11 +35,13 @@
             </h5>
         </div>
         <div class="title">
-            <h1 style="padding: 20px;color:black; font-size: 20px ;font-family: 'Hanuman', serif;">ដំណាំម្នាស់</h1>
+            <h1 style="padding: 20px;color:black; font-size: 20px ;font-family: 'Hanuman', serif;">ដំណាំពោត</h1>
         </div>
         <div class="article">
             <div class="main-article">
                 <div class="content-text">
+                <h2>បច្ចេកទេសក្នុងការដាំពោត</h2>
+                <hr>
                         <h3>I-ស្ថានភាពទូទៅ Information</h3>
                         <p>ពោតមានប្រភពនៅក្នុងទ្វីបអាមេរិក ជាពិសេសនៅតំបន់អាមេរិកកណ្ដាល គឺប្រទេសមិចស៊ិចកូ   ។ 
                                 គេបានរកឃើញ កាក់សំណល់ដំណាំពោត កាលពី ៥០០ឆ្នាំមុនគ.សរាជ  ។ ក្រោយមកនៅឆ្នាំ ១៣០០-១៦០០
