@@ -45,7 +45,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/carrots.jpg" alt="">
+                <img src="../img/watermillion.jpg" alt="">
             </div>
             <div class="article">
                 <h5>ការជ្រើសពូជឪឡឹក និង ការរៀបចំដីសម្រាប់ដាំ</h5>
@@ -68,7 +68,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/carrots.jpg" alt="">
+                <img src="../img/watermillion.jpg" alt="">
             </div>
             <div class="article">
                 <h5>អំពីជំងឺដែលអាចកើតមានលើដំណាំឪឡឹក និង វិធានក្នុងការការពារ</h5>

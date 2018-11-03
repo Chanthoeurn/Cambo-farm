@@ -44,7 +44,7 @@
         </div>
         <div class="content">
             <div class="img">
-                <img src="../img/carrots.jpg" alt="">
+                <img src="../img/watermillion.jpg" alt="">
             </div>
             <div class="article">
                 <h5>ការប្រមូលផលឪឡឹក</h5>

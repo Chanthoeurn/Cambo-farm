@@ -40,7 +40,7 @@
             </h5>
         </div>
         <div class="title">
-            <h1 style="color:black; font-size: 20px ;font-family: 'Nokora', serif;padding: 20px">ដំណាំឪឡឹក</h1>
+            <h1 style="color:black; font-size: 20px ;font-family: 'Nokora', serif;padding: 20px">ដំណាំពោត</h1>
         </div>
         <div class="content">
             <div class="img">
@@ -59,8 +59,7 @@
             </div>
             <div class="article">
                 <h5>អត្ថប្រយោេជន៏នៃផ្លែពោត</h5>
-                <p> ផ្លែពោត ផ្តល់នូវរសជាតិផ្អែមឆ្ងាញ់ ដោយអាចយកវាទៅស្ងោរ រឺដុតក៏បាន។ ចុះអ្នកដឹងពី គុណប្រយោជន៍របស់វាដែរ 
-                
+                <p> ផ្លែពោត ផ្តល់នូវរសជាតិផ្អែមឆ្ងាញ់ ដោយអាចយកវាទៅស្ងោរ រឺដុតក៏បាន។ ចុះអ្នកដឹងពី គុណប្រយោជន៍របស់វាដែរ   
         . . .</p>
                 <p class="times"> &#128336; ២​​ នាទីមុន</p>
                 <a href="../others/corn-benefits.php">ចុចអានបន្ត...</a>
